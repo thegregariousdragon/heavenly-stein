@@ -26,6 +26,14 @@ Use [`ACCESSIBILITY.md`](ACCESSIBILITY.md) for screen-reader navigation notes, r
 
 Markdown files are the editable source of truth. Use `CANON_INDEX.md` for reading order and `quick-reference/QUICK_START.md` for a fast orientation.
 
+## Using this repo with AI
+
+For human-facing instructions on using this repo with an AI assistant, start with [`ai-workflows/HUMAN_USER_GUIDE.md`](ai-workflows/HUMAN_USER_GUIDE.md).
+
+Use `ai-workflows/STORY_PIPELINE.md` for story development, `ai-workflows/CONTEXT_PACKS.md` to choose the smallest needed canon set, and `planning/story-intake-template.md` to turn messy ideas into draft-ready material.
+
+Drafts, examples, and planning notes are not canon by default. New durable facts become canon only through `ai-workflows/CANON_PROMOTION.md`.
+
 ## Most important files for station redesign
 
 - `canon/08-der-himmelskrug-station.md`
