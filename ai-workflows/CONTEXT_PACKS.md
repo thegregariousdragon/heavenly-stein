@@ -24,6 +24,9 @@ Use when drafting a normal scene or short story request without a narrow technic
 
 Add:
 
+- `ai-workflows/STORY_PIPELINE.md`
+- `ai-workflows/DRAFT_SCENE.md`
+- `ai-workflows/REVISE_SCENE.md` when revising existing material.
 - `quick-reference/CHARACTER_QUICK_CARDS.md`
 - `quick-reference/SHORTHAND_DECODER.md`
 - `planning/continuity-checklist.md`
@@ -37,6 +40,7 @@ Use for any scene set on Der Himmelskrug or involving station movement, routing,
 
 Add:
 
+- `ai-workflows/STATION_SCENE_CHECK.md`
 - `quick-reference/STATION_BLOCKING_GUIDE.md`
 - `quick-reference/MECHANICS_CHEATSHEET.md`
 - `canon/08-der-himmelskrug-station.md`
@@ -52,12 +56,36 @@ Required checks:
 - What can characters see, hear, smell, access, or be blocked from accessing?
 - Are bubble elevators, service cores, Medical routes, residential routes, and dirty-side routes used correctly?
 
-## Pack 3: Character-heavy scene
+## Pack 3: Off-station scene
+
+Use for scenes away from Der Himmelskrug: ships, planets, colonies, ports, route checkpoints, corporate sites, cooperative sites, legal venues, media offices, private residences, or any other non-station setting.
+
+Add:
+
+- `ai-workflows/OFF_STATION_SCENE_CHECK.md`
+- `quick-reference/MECHANICS_CHEATSHEET.md` when transport, communications, ships, law, money, or system mechanics matter.
+- `canon/05-ships.md` when a ship matters.
+- `canon/06-transport-and-movement.md` when movement, routes, docking, or controlled travel matter.
+- `canon/16-economy-law-and-communications.md` when law, jurisdiction, devices, money, fines, or public communication matter.
+- `canon/21-corporations-cooperatives-and-institutions.md` when a company, cooperative, institution, facility, or external organization matters.
+
+Required checks:
+
+- Where exactly is the scene?
+- Who owns, operates, governs, or controls that place?
+- How did the characters get there?
+- What jurisdiction applies?
+- What communications are possible or limited?
+- Does station authority, Flight Control, Arrival Control, media, labor, commerce, or destination law still reach the scene?
+- Is the location or rule candidate canon?
+
+## Pack 4: Character-heavy scene
 
 Use when character voice, relationships, family, leadership, romance, public image, stress behavior, or personal continuity is central.
 
 Add:
 
+- `ai-workflows/CHARACTER_VOICE_CHECK.md`
 - `quick-reference/CHARACTER_QUICK_CARDS.md`
 - `quick-reference/SHORTHAND_DECODER.md`
 - `canon/02-heinz-schmitt.md`
@@ -74,7 +102,7 @@ Required checks:
 - Voice, stress behavior, blind spot, and scene fingerprint.
 - Whether the scene lets the correct person solve the correct problem.
 
-## Pack 4: Action, force, weapons, ships, or emergencies
+## Pack 5: Action, force, weapons, ships, or emergencies
 
 Use when scenes involve weapons, shields, disabling, combat, security incidents, emergency routing, ship danger, public force, sabotage, or rescue.
 
@@ -96,7 +124,7 @@ Required checks:
 - Tool use, utility emitters, shields, cargo, life support, heat, and collateral risk matter.
 - Heinz should not automatically override assigned authority.
 
-## Pack 5: Law, labor, governance, economy, media, or public accountability
+## Pack 6: Law, labor, governance, economy, media, or public accountability
 
 Use when a story touches station legitimacy, worker rights, residents, PR, media feeds, fines, debt, custody, jurisdiction, audits, board politics, or public statements.
 
@@ -116,7 +144,7 @@ Required checks:
 - Fines and violation recoveries are not ordinary profit.
 - Media interest does not erase privacy, grief, due process, or labor protection.
 
-## Pack 6: Cannabis / The Green Room / Grünraum
+## Pack 7: Cannabis / The Green Room / Grünraum
 
 Use whenever cannabis, destination law, adult-use policy, staff assignment, ventilation, intoxication, sealed takeaway, or route-specific legality appears.
 
@@ -139,12 +167,13 @@ Required checks:
 - No sealed takeaway to Veyr-bound passengers or crew.
 - Corridor odor bleed is an engineering or policy failure.
 
-## Pack 7: New arc, story queue, or planning work
+## Pack 8: New arc, story queue, or planning work
 
 Use when building future arcs, story queues, development lanes, or non-canon plans.
 
 Add:
 
+- `planning/story-intake-template.md`
 - `planning/continuity-checklist.md`
 - `planning/current-arc-board.md`
 - `planning/story-queue.md`
@@ -157,7 +186,7 @@ Required checks:
 - No old event or one-off incident is active unless explicitly re-promoted.
 - New locked facts should be routed through canon update or canon promotion.
 
-## Pack 8: Canon update or canon promotion
+## Pack 9: Canon update or canon promotion
 
 Use when changing what is true in the active world.
 
@@ -170,6 +199,7 @@ Add:
 - `quick-reference/CANON_LOCKS.md`
 - `quick-reference/RECENT_CHANGES.md`
 - `planning/continuity-checklist.md`
+- `ai-workflows/CANON_PROMOTION.md`
 - All numbered canon files directly affected.
 - All quick-reference files that summarize the changed topic.
 
