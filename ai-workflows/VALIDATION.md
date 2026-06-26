@@ -14,46 +14,9 @@ The GitHub Actions workflow lives at:
 
 It runs on pull requests that change Markdown or validation configuration, on pushes to `main`, and by manual dispatch.
 
-## Check 1: Markdown lint
+## Check 1: Required files
 
-Uses `markdownlint-cli2` through GitHub Actions.
-
-Configuration:
-
-```text
-.markdownlint.json
-```
-
-The configuration is intentionally permissive for a prose/canon repository:
-
-- Long lines are allowed.
-- Repeated headings are allowed when they are siblings.
-- Inline HTML is allowed.
-- The first line does not have to be a top-level heading.
-- Fenced code blocks are preferred.
-
-Why: canon files, templates, and scene-support docs need readable Markdown without forcing software-project formatting habits onto creative documentation.
-
-## Check 2: Link check
-
-Uses Lychee through GitHub Actions.
-
-Configuration:
-
-```text
-.lychee.toml
-```
-
-The first version is intentionally gentle:
-
-- It checks Markdown links.
-- It allows normal success responses and rate-limit responses.
-- It excludes private GitHub repo links for now.
-- It ignores mail and loopback-style example links.
-
-Why: the goal is to catch obvious broken links without making private-repo or generated-anchor behavior noisy.
-
-## Check 3: Required files
+This is the strict baseline check.
 
 The workflow verifies that core source-of-truth and AI workflow files still exist.
 
@@ -72,8 +35,54 @@ Current required files:
 - `ai-workflows/CONTINUITY_AUDIT.md`
 - `ai-workflows/BRANCHING_MODEL.md`
 - `ai-workflows/CANON_PROMOTION.md`
+- `ai-workflows/VALIDATION.md`
 
 Why: these files define the current source-of-truth hierarchy and AI operating process.
+
+## Check 2: Markdown lint
+
+Uses `markdownlint-cli2` through GitHub Actions.
+
+Configuration:
+
+```text
+.markdownlint.json
+```
+
+The current lint profile is a low-noise baseline. It catches basic mechanical Markdown issues, such as broken heading syntax, missing spaces after heading markers, tabs, trailing spaces, and missing final newlines.
+
+It intentionally does not enforce software-project habits that are often hostile to prose and canon documents.
+
+Examples of rules intentionally relaxed:
+
+- Long lines are allowed.
+- Bare URLs are allowed for now.
+- Code fences do not need language labels.
+- The first line does not have to be a top-level heading.
+- The repo is not forced into a single list or table style.
+
+Why: canon files, templates, and scene-support docs need readable Markdown without forcing software-project formatting habits onto creative documentation.
+
+## Check 3: Link check
+
+Uses Lychee through GitHub Actions.
+
+Configuration:
+
+```text
+.lychee.toml
+```
+
+The first version is informational. It may report broken or unreachable links, but it is not yet a merge-blocking authority.
+
+The link check is intentionally gentle:
+
+- It checks Markdown links.
+- It allows normal success responses and rate-limit responses.
+- It excludes private GitHub repo links for now.
+- It ignores mail and loopback-style example links.
+
+Why: the goal is to learn where link checking is noisy before turning it into a strict gate.
 
 ## What validation does not do
 
@@ -111,6 +120,7 @@ Add these only after the basic checks are stable:
 - Canon-lock keyword scans.
 - Accessibility linting for color-only language or missing sensory/access fields.
 - A script that warns when story drafts introduce candidate canon without marking it.
+- Strict link checking once the initial link-noise profile is understood.
 
 ## Canon-safety rule
 
