@@ -68,22 +68,28 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Run markdownlint
-        uses: DavidAnson/markdownlint-cli2-action@v17
-        with:
-          globs: "**/*.md"
+      - name: Run markdownlint with explicit config
+        shell: bash
+        run: |
+          set -euo pipefail
+          npx --yes markdownlint-cli@0.45.0 --config .markdownlint.json "**/*.md"
 
   link-check:
     name: Link check informational
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Check Markdown links
+      - name: Check Markdown links without blocking
         uses: lycheeverse/lychee-action@v2
+        continue-on-error: true
         with:
           args: --config .lychee.toml "**/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Summarize informational link check
+        shell: bash
+        run: |
+          echo "Link checking is informational during baseline stabilization."
