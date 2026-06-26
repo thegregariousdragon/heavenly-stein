@@ -1,0 +1,20 @@
+# Lychee link checker configuration.
+# Keep this permissive at first so validation catches obvious breakage without
+# making story/canon work noisy.
+
+max_redirects = 10
+retry_wait_time = 2
+max_retries = 2
+timeout = 20
+accept = [200, 206, 429]
+
+# GitHub private repo links and generated anchors can be checked later once the
+# project decides how strict link validation should be.
+exclude = [
+  "^https://github.com/thegregariousdragon/heavenly-stein/.*$"
+]
+
+# The repo is mostly local Markdown. Treat mailto and localhost-like placeholders
+# as intentionally non-web links when they appear in examples.
+exclude_mail = true
+exclude_loopback = true
