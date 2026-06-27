@@ -10,6 +10,7 @@ This pass follows the canon promotion workflow after the revised prose packet wa
 - `story-dev/opening-the-stein/candidate-notes-v1.md`
 - `story-dev/opening-the-stein/revised-check-v1.md`
 - `story-dev/opening-the-stein/revised-compiled-v1.md`
+- `canon/09-station-leadership.md`
 - `canon/12-story-chronology.md`
 - `quick-reference/CANON_LOCKS.md`
 - `quick-reference/RECENT_CHANGES.md`
@@ -23,6 +24,13 @@ Canon promotion requires deliberate addition to the relevant canonical owner fil
 `canon/12-story-chronology.md` currently says no story events are locked.
 
 The continuity rebuild keeps active worldbuilding, station layout, systems, and character canon, but clears old plot/event history unless explicitly re-promoted.
+
+`canon/09-station-leadership.md` already establishes:
+
+- Lian Zhou as Director of Colony Relations and Consular Services.
+- Sanaa El-Masri as Director of Stores and Supply Chain.
+
+This decision pass therefore treats Sanaa and Lian as existing canon characters whose opening-story appearances use their established roles, not as new candidate-only names.
 
 ## Overall recommendation
 
@@ -118,7 +126,7 @@ Owner file: `canon/12-story-chronology.md`.
 
 Reason: It supports existing “labels are life support” canon and demonstrates training/process working before harm.
 
-Risk: Do not promote Marn-Taal culture, sunroot/rauch-kelp cuisine, or Naya/Sanaa/Lian as durable canon unless needed later.
+Risk: Do not promote Marn-Taal culture, sunroot/rauch-kelp cuisine, or Naya as durable canon unless needed later. Sanaa and Lian already exist in canon; no new promotion is needed for their roles.
 
 Suggested canon wording:
 
@@ -141,6 +149,28 @@ Risk: Do not turn the specific dispute into universal policy language unless sep
 Suggested canon wording:
 
 > Priya contains and resolves a private Residential rest/assignment dispute during opening prep, reinforcing that Residential privacy and livability are not subordinate to public spectacle.
+
+## Already active canon used by the story
+
+### Sanaa El-Masri
+
+Status: already active canon.
+
+Existing owner file: `canon/09-station-leadership.md`.
+
+Existing role: Director of Stores and Supply Chain.
+
+Opening-story use: Sanaa’s substitute/supply flagging fits her established supply-chain authority. No new character promotion is needed.
+
+### Lian Zhou
+
+Status: already active canon.
+
+Existing owner file: `canon/09-station-leadership.md`.
+
+Existing role: Director of Colony Relations and Consular Services.
+
+Opening-story use: Lian reviewing culturally careful wording fits their established colony-relations and cultural/translation review authority. No new character promotion is needed.
 
 ## Recommended to keep candidate-only for now
 
@@ -176,13 +206,13 @@ Reason: Useful flavor detail, not durable canon by itself.
 
 Future trigger: promote only if H2 menus, Marn-Taal food culture, or recurring food lore needs it.
 
-### Naya, Sanaa, and Lian
+### Naya
 
-Decision: keep candidate-only / provisional scene names.
+Decision: keep candidate-only / provisional scene name.
 
-Reason: They make the H2 safety catch feel staffed and real, but are not yet recurring.
+Reason: Naya makes the H2 safety catch feel staffed and real, but she is not yet recurring canon.
 
-Future trigger: promote if any becomes recurring or enters an active staff roster.
+Future trigger: promote if Naya becomes recurring or enters an active staff roster.
 
 ### Specific public visitor reactions
 
@@ -208,7 +238,7 @@ Reason: Existing media canon already defines their broad functions. The opening 
 
 ## Conflict check
 
-No hard conflict found with checked sources.
+No hard conflict found after correcting Sanaa and Lian’s status as existing canon characters.
 
 The recommended promotion package aligns with:
 
@@ -219,6 +249,8 @@ The recommended promotion package aligns with:
 - public/restricted station routing;
 - Residential privacy;
 - food/allergen safety canon;
+- Sanaa’s existing supply-chain authority;
+- Lian’s existing colony-relations and cultural/translation review authority;
 - Green Room / Grünraum ambiguity avoidance;
 - no old chronology restoration.
 
@@ -240,7 +272,7 @@ The recommended promotion package aligns with:
 - `canon/16-economy-law-and-communications.md`
 - `canon/19-tested-story-precedents.md`
 
-Reason: The promotion is event chronology, not a rules rewrite.
+Reason: The promotion is event chronology, not a rules rewrite. `canon/09-station-leadership.md` was checked because Sanaa and Lian are already active canon there, but it does not need edits for this promotion.
 
 ## Recommended next branch
 
@@ -255,10 +287,11 @@ canon-update/opening-the-stein-chronology
 1. Update `canon/12-story-chronology.md` to add `Opening the Stein` as the first locked active event.
 2. Add a concise `RECENT_CHANGES.md` note that the opening story is now the first active chronology event after the rebuild.
 3. State explicitly in the PR body that old chronology remains inactive.
-4. Do not add standalone canon entries for Mirelle, Janna, Marn-Taal, Naya, Sanaa, Lian, or the food dish yet.
+4. Do not add standalone canon entries for Mirelle, Janna, Marn-Taal, Naya, or the food dish yet.
+5. Do not add new canon entries for Sanaa or Lian; they are already active in `canon/09-station-leadership.md`.
 
 ## Bottom line
 
 Proceed with a minimal canon update that promotes the opening event and its essential consequences only.
 
-Keep named supporting details candidate-only until future reuse proves they need durable canon weight.
+Keep named supporting details candidate-only until future reuse proves they need durable canon weight. Treat Sanaa and Lian as existing canon characters whose opening-story actions fit their established roles.
