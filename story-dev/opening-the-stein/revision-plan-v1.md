@@ -17,6 +17,35 @@ The story should still feel like:
 - Heinz as awkward founder who finally means the speech;
 - Arrival Control, Flight Control, Hospitality, Residential, H2, Taproom, Entertainment, Medical, and media all remaining in their lanes.
 
+## Locked user decisions
+
+These decisions were made after the full-continuity audit and should guide the revised prose packet.
+
+1. **Final format: both serialized and compiled.**
+   - Create four revised serialized parts.
+   - Also create one compiled revised version for reading continuity.
+
+2. **Performer specificity: keep Mirelle Voss named.**
+   - Mirelle Voss may matter in a future story.
+   - Track her as candidate canon only until deliberate promotion.
+
+3. **H2 food specificity: keep a specific colony/culture food beat, but run a naming safety pass.**
+   - Preserve the H2 issue as specific and culturally textured.
+   - The current `Veyr-Kol` name may be too close to a location intended as a non-human location in existing canon.
+   - Before finalizing revised prose, check or rename the colony/food-line name to avoid collision or reader confusion.
+   - Keep the food-safety/allergen logic intact regardless of naming.
+
+4. **Janna status: keep Janna named as a recurring Comms/event-support candidate.**
+   - Treat her as part of Feli’s working orbit.
+   - Track as candidate canon only until deliberate promotion.
+
+5. **Heinz’s speech: trim during revision.**
+   - Trim by roughly 10–15%.
+   - Preserve awkward humor, sincerity, and Heinz’s voice.
+
+6. **Greenroom wording: replace with `performer lounge`.**
+   - Avoid accidental confusion with the project-specific Green Room / Grünraum.
+
 ## Non-negotiables to preserve
 
 - Public visitors enter through Arrival Control, not direct transport into H1 or the taproom.
@@ -39,15 +68,11 @@ Replace Part 3 opening wording:
 
 > outside a greenroom that was not green
 
-Recommended replacement:
+Locked replacement:
 
 > outside a performer lounge
 
-or:
-
-> outside a performer holding room
-
-Preferred: `performer lounge`, because it is compact and avoids accidental conflict with the project-specific Green Room / Grünraum.
+Rationale: `performer lounge` is compact, clear, and avoids accidental conflict with the project-specific Green Room / Grünraum.
 
 ### 2. Smooth repeated phrases
 
@@ -79,6 +104,12 @@ Keep:
 - no guest exposure;
 - item isolated / corrected / relabeled.
 
+Naming constraint:
+
+- Keep food specificity.
+- Do not finalize `Veyr-Kol` without checking or revising it against existing non-human-location naming.
+- If needed, choose a replacement name that preserves colony/cultural texture without colliding with existing canon.
+
 ### 4. Trim Heinz’s speech by 10–15%
 
 Preserve:
@@ -94,15 +125,14 @@ Likely trim area:
 
 - the long list of people who built the station.
 
-### 5. Decide media density in Part 4
+### 5. Decide media density in Part 4 during prose revision
 
-Options:
+Locked direction:
 
-1. Keep all three outlets for mixed-but-fair media proof.
-2. Compress Civic Meridian lower-third because Starlight + Galaxy News carry stronger contrast.
-3. Keep the headlines but shorten surrounding narration.
-
-Recommended default: option 3.
+- Keep the mixed-but-fair media frame.
+- Keep Starlight and Galaxy News contrast.
+- Keep Civic Meridian if it still earns its space after surrounding narration is shortened.
+- Default to shortening surrounding narration before cutting an outlet entirely.
 
 ## Candidate canon tracking needed
 
@@ -117,44 +147,10 @@ Candidate items to track:
 - Performer program adjustment.
 - H2 label catch.
 - Feli’s opening-day Communications and Civic Interface example.
-- Mirelle Voss if kept named.
-- Veyr-Kol / sunroot dumplings / rauch-kelp oil if kept named.
-- Janna if kept as durable Comms/event-support staff.
-
-## User decisions needed before prose revision
-
-1. Serialized or compiled?
-   - Keep the final version as four serialized parts.
-   - Compile into one continuous story.
-   - Keep both: serialized files plus one compiled revised version.
-
-2. Performer specificity?
-   - Keep Mirelle Voss named.
-   - Keep performer named but reduce detail.
-   - Make performer unnamed / less canon-heavy.
-
-3. H2 specificity?
-   - Keep Veyr-Kol and sunroot dumplings with rauch-kelp oil.
-   - Keep a colony-specific dish but reduce invented names.
-   - Make it a generic opening menu item.
-
-4. Janna status?
-   - Treat Janna as a recurring Comms/event-support character candidate.
-   - Keep Janna as an opening-story utility character only.
-   - Rename or anonymize if canon burden is undesirable.
-
-5. Speech trimming timing?
-   - Trim Heinz’s speech during this revision.
-   - Leave it until after a compiled-story read.
-
-## Recommended answers if no further direction is given
-
-- Keep four serialized parts for now.
-- Also create one compiled revised version later for reading continuity.
-- Keep Mirelle Voss named, but mark candidate canon only.
-- Keep Veyr-Kol named for texture, but mark as draft-level candidate canon.
-- Keep Janna named as a useful Comms/event-support candidate.
-- Trim Heinz’s speech during the revision pass.
+- Mirelle Voss.
+- Renamed or confirmed H2 colony/food-line name.
+- sunroot dumplings / rauch-kelp oil if kept.
+- Janna as recurring Comms/event-support candidate.
 
 ## Proposed next branch work
 
@@ -162,13 +158,21 @@ Current branch:
 
 `story-dev/opening-the-stein-full-revision`
 
-Files already planned here:
+Files already added here:
 
 - `story-dev/opening-the-stein/full-continuity-audit-v1.md`
 - `story-dev/opening-the-stein/revision-plan-v1.md`
 
-Next prose revision files, after user decisions:
+Next prose revision files, after this planning checkpoint:
 
 - `story-dev/opening-the-stein/opening-the-stein-revised-v1.md`
 - `story-dev/opening-the-stein/revised-check-v1.md`
 - optional: `story-dev/opening-the-stein/candidate-canon-v1.md`
+
+## Recommended revision sequence
+
+1. Confirm or replace the H2 colony/food-line name.
+2. Produce revised serialized Parts 1–4.
+3. Produce one compiled revised version.
+4. Run a revised full-story continuity check.
+5. Prepare candidate-canon tracking only after the revised prose stabilizes.
