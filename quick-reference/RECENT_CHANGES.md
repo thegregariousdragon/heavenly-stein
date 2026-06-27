@@ -1,5 +1,24 @@
 # Recent Changes
 
+## Opening the Stein chronology start
+
+`Opening the Stein` is now the first locked event in the rebuilt active chronology.
+
+This promotion updates `canon/12-story-chronology.md` only as story chronology. It does **not** restore old chronology, old plots, old scene blocking, or archived story events.
+
+Promoted opening-event facts:
+
+- First ordinary public visitors enter through Arrival Control and release into Hospitality Level 1 after clearance/declaration handling.
+- Opening traffic remains under Flight Control authority; media attention, founder status, historic desire, and private-traffic impatience do not modify traffic law.
+- Hospitality Level 2 catches and corrects a food-label mismatch before guest exposure.
+- Priya contains a private Residential rest/assignment dispute; Residential privacy and livability do not become public spectacle.
+- The performer-program adjustment remains private/proportionate chronology, not public scandal canon.
+- The first public pour comes from a verified backup line after the ceremonial line fails to clear cleanly.
+
+Candidate-only details remain candidate-only unless later promoted: Mirelle Voss as a recurring character, Janna as recurring Comms/event-support staff, Marn-Taal as durable colony/culture/location reference, the specific food dish, Naya, and individual first-wave visitor reactions.
+
+Sanaa El-Masri and Lian Zhou are already active canon in `canon/09-station-leadership.md`; their opening-story actions use existing roles and do not require new promotion.
+
 ## Continuity rebuild package
 
 This package clears old story/event canon while preserving active worldbuilding and character canon.
@@ -8,7 +27,7 @@ Changed in this package:
 
 - Removed old story prose from the active package.
 - Removed old story-specific planning files.
-- Reset `canon/12-story-chronology.md`; no previous story events are currently active chronology.
+- Reset `canon/12-story-chronology.md`; no previous story events are active chronology unless explicitly re-promoted.
 - Rewrote `canon/19-tested-story-precedents.md` as tested **system** precedents, not event history.
 - Preserved character-specific canon, including character files, scene fingerprints, quick cards, and shorthand/name/pronoun guidance.
 - Preserved worldbuilding canon: law, economy, corporations, institutions, locations, station layout, ships, ship systems, weapons, media feeds, governance, labor, transport, clean-side/restricted-side routing, and procedures.
