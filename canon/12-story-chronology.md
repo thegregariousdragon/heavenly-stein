@@ -1,5 +1,8 @@
 # Story Chronology
 
+Canon navigation: [Home](README.md) | [Previous: 11 Media Feeds](11-media-feeds.md) | [Next: 13 Running Jokes and Phrases](13-running-jokes-and-phrases.md)
+
+
 ## Status: continuity rebuild chronology started
 
 No previous story plot, date sequence, incident, or scene blocking is active chronology unless explicitly re-promoted in a future canon update.

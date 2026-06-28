@@ -1,5 +1,8 @@
 # Open Threads and Future Story Ideas
 
+Canon navigation: [Home](README.md) | [Previous: 13 Running Jokes and Phrases](13-running-jokes-and-phrases.md) | [Next: 15 Corrections and Canon Notes](15-corrections-and-canon-notes.md)
+
+
 ## Status
 
 Reset for continuity rebuild. Old story-specific threads are not active unless re-added here in generalized form or explicitly re-promoted later.

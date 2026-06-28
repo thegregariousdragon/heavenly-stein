@@ -1,5 +1,8 @@
 # Running Jokes, Phrases, and Reusable Lines
 
+Canon navigation: [Home](README.md) | [Previous: 12 Story Chronology](12-story-chronology.md) | [Next: 14 Open Threads](14-open-threads.md)
+
+
 ## Use note
 
 This file preserves reusable lines and tonal anchors. It does not preserve old story events or old chronology. Use phrases sparingly; repeated catchphrases should feel earned, not pasted in.

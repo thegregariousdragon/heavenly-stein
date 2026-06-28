@@ -1,5 +1,8 @@
 # Heinz’s Family
 
+Canon navigation: [Home](README.md) | [Previous: 02 Heinz Schmitt](02-heinz-schmitt.md) | [Next: 04 Core Relationships](04-core-relationships.md)
+
+
 - **:** **Character**
   - **:** **Canon facts**
   - **:** **Voice / role**

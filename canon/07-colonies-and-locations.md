@@ -1,5 +1,8 @@
 # Colonies, Stations, Routes, and Jurisdictions
 
+Canon navigation: [Home](README.md) | [Previous: 06 Transport and Movement](06-transport-and-movement.md) | [Next: 08 Der Himmelskrug Station](08-der-himmelskrug-station.md)
+
+
 This file is the master gazetteer for major planets, colonies, stations, route corridors, and known jurisdictions in *The Heavenly Stein*. Use it first for geography, local culture, route role, cannabis/intoxicant policy, corporate ecology, and story-facing location logic.
 
 For detailed mechanics, cross-reference the relevant numbered canon and quick-reference files. In particular, use `canon/06-transport-and-movement.md` for movement and teleportation, `canon/08-der-himmelskrug-station.md` and `quick-reference/STATION_BLOCKING_GUIDE.md` for Der Himmelskrug geography, `canon/10-governance-labor.md` for station authority and labor, `canon/16-economy-law-and-communications.md` for law and communications, `canon/18-weapons-combat-and-force-rules.md` for force and weapon limits, and `canon/20-starship-systems.md` for ship systems.

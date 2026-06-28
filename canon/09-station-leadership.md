@@ -1,5 +1,8 @@
 # Station Leadership and Operational Cast
 
+Canon navigation: [Home](README.md) | [Previous: 08 Der Himmelskrug Station](08-der-himmelskrug-station.md) | [Next: 10 Governance Labor](10-governance-labor.md)
+
+
 Der Himmelskrug now has a clearer operational cast because the station
 is permanent infrastructure at The Knot rather than a novelty
 brewery-port. These roles prevent Heinz from functioning as every

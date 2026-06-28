@@ -1,5 +1,8 @@
 # Character Personality and Scene Fingerprints
 
+Canon navigation: [Home](README.md) | [Previous: 16 Economy Law and Communications](16-economy-law-and-communications.md) | [Next: 18 Weapons Combat and Force Rules](18-weapons-combat-and-force-rules.md)
+
+
 These notes define recurring personality behavior, scene instincts,
 speech tendencies, private contradictions, and relationship friction.
 They do not replace formal roles, authority, chronology, mechanics, or

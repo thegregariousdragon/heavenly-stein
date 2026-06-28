@@ -1,5 +1,8 @@
 # Governance Evolution, Labor, and Civic Institutions
 
+Canon navigation: [Home](README.md) | [Previous: 09 Station Leadership](09-station-leadership.md) | [Next: 11 Media Feeds](11-media-feeds.md)
+
+
 Der Himmelskrug has outgrown a purely founder-centered model. This does
 not make it a sovereign state or full democracy; canon remains that Der
 Himmelskrug is privately founded, partner-backed, and IFP-recognized

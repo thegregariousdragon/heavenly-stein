@@ -1,5 +1,8 @@
 # Tested System Precedents
 
+Canon navigation: [Home](README.md) | [Previous: 18 Weapons Combat and Force Rules](18-weapons-combat-and-force-rules.md) | [Next: 20 Starship Systems](20-starship-systems.md)
+
+
 ## Status and use rules
 
 This file preserves system precedents tested during earlier story development. It is **not** active chronology and does not preserve old story plots, scene blocking, or named incidents as canon events.

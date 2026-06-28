@@ -1,5 +1,8 @@
 # Core Relationships
 
+Canon navigation: [Home](README.md) | [Previous: 03 Family](03-family.md) | [Next: 05 Ships](05-ships.md)
+
+
 ## Rolf Petersen
 
 - From Hamburg. TUM friend, best friend, and technical co-conspirator.

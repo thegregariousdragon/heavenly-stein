@@ -1,5 +1,8 @@
 # Corrections and Canon Notes
 
+Canon navigation: [Home](README.md) | [Previous: 14 Open Threads](14-open-threads.md) | [Next: 16 Economy Law and Communications](16-economy-law-and-communications.md)
+
+
 ## Continuity rebuild status
 
 This package keeps worldbuilding and character canon while resetting old story/event canon. Old story plots, chronology, one-off incidents, and previous scene blocking are not active canon unless a later canon update explicitly re-promotes them.

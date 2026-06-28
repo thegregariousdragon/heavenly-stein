@@ -1,5 +1,8 @@
 # Media and Public Perception
 
+Canon navigation: [Home](README.md) | [Previous: 10 Governance Labor](10-governance-labor.md) | [Next: 12 Story Chronology](12-story-chronology.md)
+
+
 ## Source-of-truth note
 
 This file remains the authority for media editorial posture, political framing, public-perception rules, and how outlets respond to Der Himmelskrug, governance, labor, route safety, and Heinz/Feli.

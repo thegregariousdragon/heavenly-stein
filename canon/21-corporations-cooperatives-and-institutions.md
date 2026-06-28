@@ -1,5 +1,8 @@
 # Corporations, Cooperatives, Guilds, and Institutions
 
+Canon navigation: [Home](README.md) | [Previous: 20 Starship Systems](20-starship-systems.md) | Next: none
+
+
 ## Source-of-truth note
 
 This file tracks major corporations, cooperatives, guilds, public trusts, media institutions, route-service companies, financial actors, contractor forces, and other organizations that shape the economy and public life of *The Heavenly Stein*.
