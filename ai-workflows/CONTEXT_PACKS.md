@@ -8,13 +8,13 @@ Do not load the whole repo by default. Start with the common foundation, then ad
 
 Use for every AI-assisted story, revision, continuity, or canon task:
 
-1. `README.md`
-2. `CANON_INDEX.md`
-3. `MANIFEST.md`
-4. `ACCESSIBILITY.md`
-5. `quick-reference/QUICK_START.md`
-6. `quick-reference/CANON_LOCKS.md`
-7. `quick-reference/RECENT_CHANGES.md`
+1. [`README.md`](../README.md)
+2. [`CANON_INDEX.md`](../CANON_INDEX.md)
+3. [`MANIFEST.md`](../MANIFEST.md)
+4. [`ACCESSIBILITY.md`](../ACCESSIBILITY.md)
+5. [`quick-reference/QUICK_START.md`](../quick-reference/QUICK_START.md)
+6. [`quick-reference/CANON_LOCKS.md`](../quick-reference/CANON_LOCKS.md)
+7. [`quick-reference/RECENT_CHANGES.md`](../quick-reference/RECENT_CHANGES.md)
 
 The foundation establishes package status, active/inactive canon, accessibility expectations, current locks, and latest maintenance notes.
 
@@ -24,12 +24,12 @@ Use when drafting a normal scene or short story request without a narrow technic
 
 Add:
 
-- `ai-workflows/STORY_PIPELINE.md`
-- `ai-workflows/DRAFT_SCENE.md`
-- `ai-workflows/REVISE_SCENE.md` when revising existing material.
-- `quick-reference/CHARACTER_QUICK_CARDS.md`
-- `quick-reference/SHORTHAND_DECODER.md`
-- `planning/continuity-checklist.md`
+- [`ai-workflows/STORY_PIPELINE.md`](STORY_PIPELINE.md)
+- [`ai-workflows/DRAFT_SCENE.md`](DRAFT_SCENE.md)
+- [`ai-workflows/REVISE_SCENE.md`](REVISE_SCENE.md) when revising existing material.
+- [`quick-reference/CHARACTER_QUICK_CARDS.md`](../quick-reference/CHARACTER_QUICK_CARDS.md)
+- [`quick-reference/SHORTHAND_DECODER.md`](../quick-reference/SHORTHAND_DECODER.md)
+- [`planning/continuity-checklist.md`](../planning/continuity-checklist.md)
 - Any numbered canon file directly named by the user.
 
 Also add the more specific packs below when the scene touches those topics.
@@ -40,12 +40,12 @@ Use for any scene set on Der Himmelskrug or involving station movement, routing,
 
 Add:
 
-- `ai-workflows/STATION_SCENE_CHECK.md`
-- `quick-reference/STATION_BLOCKING_GUIDE.md`
-- `quick-reference/MECHANICS_CHEATSHEET.md`
-- `canon/08-der-himmelskrug-station.md`
-- `canon/06-transport-and-movement.md` when personnel movement, teleportation, docking, or controlled routes matter.
-- `canon/16-economy-law-and-communications.md` when law, jurisdiction, access, devices, or public communication matter.
+- [`ai-workflows/STATION_SCENE_CHECK.md`](STATION_SCENE_CHECK.md)
+- [`quick-reference/STATION_BLOCKING_GUIDE.md`](../quick-reference/STATION_BLOCKING_GUIDE.md)
+- [`quick-reference/MECHANICS_CHEATSHEET.md`](../quick-reference/MECHANICS_CHEATSHEET.md)
+- [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md)
+- [`canon/06-transport-and-movement.md`](../canon/06-transport-and-movement.md) when personnel movement, teleportation, docking, or controlled routes matter.
+- [`canon/16-economy-law-and-communications.md`](../canon/16-economy-law-and-communications.md) when law, jurisdiction, access, devices, or public communication matter.
 
 Required checks:
 
@@ -62,12 +62,12 @@ Use for scenes away from Der Himmelskrug: ships, planets, colonies, ports, route
 
 Add:
 
-- `ai-workflows/OFF_STATION_SCENE_CHECK.md`
-- `quick-reference/MECHANICS_CHEATSHEET.md` when transport, communications, ships, law, money, or system mechanics matter.
-- `canon/05-ships.md` when a ship matters.
-- `canon/06-transport-and-movement.md` when movement, routes, docking, or controlled travel matter.
-- `canon/16-economy-law-and-communications.md` when law, jurisdiction, devices, money, fines, or public communication matter.
-- `canon/21-corporations-cooperatives-and-institutions.md` when a company, cooperative, institution, facility, or external organization matters.
+- [`ai-workflows/OFF_STATION_SCENE_CHECK.md`](OFF_STATION_SCENE_CHECK.md)
+- [`quick-reference/MECHANICS_CHEATSHEET.md`](../quick-reference/MECHANICS_CHEATSHEET.md) when transport, communications, ships, law, money, or system mechanics matter.
+- [`canon/05-ships.md`](../canon/05-ships.md) when a ship matters.
+- [`canon/06-transport-and-movement.md`](../canon/06-transport-and-movement.md) when movement, routes, docking, or controlled travel matter.
+- [`canon/16-economy-law-and-communications.md`](../canon/16-economy-law-and-communications.md) when law, jurisdiction, devices, money, fines, or public communication matter.
+- [`canon/21-corporations-cooperatives-and-institutions.md`](../canon/21-corporations-cooperatives-and-institutions.md) when a company, cooperative, institution, facility, or external organization matters.
 
 Required checks:
 
@@ -85,14 +85,14 @@ Use when character voice, relationships, family, leadership, romance, public ima
 
 Add:
 
-- `ai-workflows/CHARACTER_VOICE_CHECK.md`
-- `quick-reference/CHARACTER_QUICK_CARDS.md`
-- `quick-reference/SHORTHAND_DECODER.md`
-- `canon/02-heinz-schmitt.md`
-- `canon/03-family.md`
-- `canon/04-core-relationships.md`
-- `canon/09-station-leadership.md`
-- `canon/17-character-personality-and-scene-fingerprints.md`
+- [`ai-workflows/CHARACTER_VOICE_CHECK.md`](CHARACTER_VOICE_CHECK.md)
+- [`quick-reference/CHARACTER_QUICK_CARDS.md`](../quick-reference/CHARACTER_QUICK_CARDS.md)
+- [`quick-reference/SHORTHAND_DECODER.md`](../quick-reference/SHORTHAND_DECODER.md)
+- [`canon/02-heinz-schmitt.md`](../canon/02-heinz-schmitt.md)
+- [`canon/03-family.md`](../canon/03-family.md)
+- [`canon/04-core-relationships.md`](../canon/04-core-relationships.md)
+- [`canon/09-station-leadership.md`](../canon/09-station-leadership.md)
+- [`canon/17-character-personality-and-scene-fingerprints.md`](../canon/17-character-personality-and-scene-fingerprints.md)
 
 Required checks:
 
@@ -108,12 +108,12 @@ Use when scenes involve weapons, shields, disabling, combat, security incidents,
 
 Add:
 
-- `quick-reference/MECHANICS_CHEATSHEET.md`
-- `canon/05-ships.md`
-- `canon/18-weapons-combat-and-force-rules.md`
-- `canon/20-starship-systems.md`
-- `canon/19-tested-story-precedents.md`
-- `canon/16-economy-law-and-communications.md`
+- [`quick-reference/MECHANICS_CHEATSHEET.md`](../quick-reference/MECHANICS_CHEATSHEET.md)
+- [`canon/05-ships.md`](../canon/05-ships.md)
+- [`canon/18-weapons-combat-and-force-rules.md`](../canon/18-weapons-combat-and-force-rules.md)
+- [`canon/20-starship-systems.md`](../canon/20-starship-systems.md)
+- [`canon/19-tested-story-precedents.md`](../canon/19-tested-story-precedents.md)
+- [`canon/16-economy-law-and-communications.md`](../canon/16-economy-law-and-communications.md)
 
 Required checks:
 
@@ -130,11 +130,11 @@ Use when a story touches station legitimacy, worker rights, residents, PR, media
 
 Add:
 
-- `canon/10-governance-labor.md`
-- `canon/11-media-feeds.md`
-- `canon/16-economy-law-and-communications.md`
-- `canon/21-corporations-cooperatives-and-institutions.md`
-- `canon/19-tested-story-precedents.md`
+- [`canon/10-governance-labor.md`](../canon/10-governance-labor.md)
+- [`canon/11-media-feeds.md`](../canon/11-media-feeds.md)
+- [`canon/16-economy-law-and-communications.md`](../canon/16-economy-law-and-communications.md)
+- [`canon/21-corporations-cooperatives-and-institutions.md`](../canon/21-corporations-cooperatives-and-institutions.md)
+- [`canon/19-tested-story-precedents.md`](../canon/19-tested-story-precedents.md)
 
 Required checks:
 
@@ -150,11 +150,11 @@ Use whenever cannabis, destination law, adult-use policy, staff assignment, vent
 
 Add:
 
-- `quick-reference/MECHANICS_CHEATSHEET.md`
-- `quick-reference/STATION_BLOCKING_GUIDE.md`
-- `canon/08-der-himmelskrug-station.md`
-- `canon/16-economy-law-and-communications.md`
-- `canon/19-tested-story-precedents.md`
+- [`quick-reference/MECHANICS_CHEATSHEET.md`](../quick-reference/MECHANICS_CHEATSHEET.md)
+- [`quick-reference/STATION_BLOCKING_GUIDE.md`](../quick-reference/STATION_BLOCKING_GUIDE.md)
+- [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md)
+- [`canon/16-economy-law-and-communications.md`](../canon/16-economy-law-and-communications.md)
+- [`canon/19-tested-story-precedents.md`](../canon/19-tested-story-precedents.md)
 
 Required checks:
 
@@ -173,11 +173,11 @@ Use when building future arcs, story queues, development lanes, or non-canon pla
 
 Add:
 
-- `planning/story-intake-template.md`
-- `planning/continuity-checklist.md`
-- `planning/current-arc-board.md`
-- `planning/story-queue.md`
-- `canon/12-story-chronology.md`
+- [`planning/story-intake-template.md`](../planning/story-intake-template.md)
+- [`planning/continuity-checklist.md`](../planning/continuity-checklist.md)
+- [`planning/current-arc-board.md`](../planning/current-arc-board.md)
+- [`planning/story-queue.md`](../planning/story-queue.md)
+- [`canon/12-story-chronology.md`](../canon/12-story-chronology.md)
 - Any topic-specific packs needed by the proposed arc.
 
 Required checks:
@@ -192,14 +192,14 @@ Use when changing what is true in the active world.
 
 Add:
 
-- `README.md`
-- `CANON_INDEX.md`
-- `MANIFEST.md`
-- `quick-reference/QUICK_START.md`
-- `quick-reference/CANON_LOCKS.md`
-- `quick-reference/RECENT_CHANGES.md`
-- `planning/continuity-checklist.md`
-- `ai-workflows/CANON_PROMOTION.md`
+- [`README.md`](../README.md)
+- [`CANON_INDEX.md`](../CANON_INDEX.md)
+- [`MANIFEST.md`](../MANIFEST.md)
+- [`quick-reference/QUICK_START.md`](../quick-reference/QUICK_START.md)
+- [`quick-reference/CANON_LOCKS.md`](../quick-reference/CANON_LOCKS.md)
+- [`quick-reference/RECENT_CHANGES.md`](../quick-reference/RECENT_CHANGES.md)
+- [`planning/continuity-checklist.md`](../planning/continuity-checklist.md)
+- [`ai-workflows/CANON_PROMOTION.md`](CANON_PROMOTION.md)
 - All numbered canon files directly affected.
 - All quick-reference files that summarize the changed topic.
 
@@ -207,7 +207,7 @@ Required checks:
 
 - Identify the canonical owner file.
 - Update quick-reference summaries only after updating the owner file.
-- Update `RECENT_CHANGES.md` for meaningful shifts.
+- Update [`RECENT_CHANGES.md`](../quick-reference/RECENT_CHANGES.md) for meaningful shifts.
 - Do not create contradictions between locks, cheat sheets, station blocking, and numbered canon.
 - State whether old material is being re-promoted, rejected, or ignored.
 

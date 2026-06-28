@@ -1,6 +1,6 @@
 # Mechanics Cheat Sheet
 
-For Der Himmelskrug physical scene blocking, visual description, level placement, lighting modes, and route separation, also check `quick-reference/STATION_BLOCKING_GUIDE.md`.
+For Der Himmelskrug physical scene blocking, visual description, level placement, lighting modes, and route separation, also check [`quick-reference/STATION_BLOCKING_GUIDE.md`](STATION_BLOCKING_GUIDE.md).
 
 Use this as the fast-reference guide for world systems. The full rules remain in the numbered canon files.
 
@@ -54,7 +54,7 @@ Useful lines:
 
 ## Station sensory mechanics
 
-- For detailed surface, lighting, air, smell, and sound rules, use `canon/08-der-himmelskrug-station.md` and `quick-reference/STATION_BLOCKING_GUIDE.md`.
+- For detailed surface, lighting, air, smell, and sound rules, use [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md) and [`quick-reference/STATION_BLOCKING_GUIDE.md`](STATION_BLOCKING_GUIDE.md).
 - Odor control is mechanical infrastructure, not mood. Brewery, food, cannabis, salon, Medical, garage, decon, and Restricted Works air systems are locally controlled.
 - Any smell in the wrong zone is a system clue: ventilation bleed, door misuse, filter failure, decon stress, cargo leak, or policy breach.
 - Acoustic separation is mechanical and architectural. Loud venues use vestibules, buffers, and sound isolation; hotel, Residential, Medical, and Crown areas should not receive casual noise bleed.
@@ -94,7 +94,7 @@ Use narrative capability profiles, not old exact stat blocks.
 
 ## Starship systems
 
-For full non-weapon starship system rules, check `canon/20-starship-systems.md`. Use `canon/05-ships.md` for specific ship roles and `canon/18-weapons-combat-and-force-rules.md` for weapons, shields, force, and disablement.
+For full non-weapon starship system rules, check [`canon/20-starship-systems.md`](../canon/20-starship-systems.md). Use [`canon/05-ships.md`](../canon/05-ships.md) for specific ship roles and [`canon/18-weapons-combat-and-force-rules.md`](../canon/18-weapons-combat-and-force-rules.md) for weapons, shields, force, and disablement.
 
 Core terms:
 
@@ -257,47 +257,3 @@ Lass ma einen bauen means “Let’s roll one” in the relevant slang context. 
 Post-music-festival principle: “Labels are life support.”
 
 Allergen data must appear where guests, servers, kitchen staff, supply-chain reviewers, and Medical can use it before harm. Supplier documentation alone is not enough.
-
-## Artifacts
-
-Artifacts remain wondrous, but procedure comes first.
-
-- Dirty-side intake controls artifact-adjacent cargo.
-- Nikki owns containment and hazardous movement.
-- Rowan owns research liaison and myth correction.
-- Mara owns compliance/legal classification.
-- Rolf evaluates systems risk.
-- Amara evaluates station/route hazard implications.
-
-Stillstone precedent: some artifacts can interfere with sublight-drive initiation harmonics without physically destroying engines. Use low-emission, low-vibration, non-drive movement methods until cleared.
-
-## Story-Tested Mechanics Rules
-
-- Nonlethal does not mean harmless: stun, restraint, disruptor, and disabling tools can still harm vulnerable people or infrastructure.
-- Disabling is usually harder than destroying: starship disabling fire may create tumble, cargo shear, shield strain, repair costs, or rescue needs.
-- Flight Control owns controlled approach: private debt, lien, cargo, celebrity, or founder claims do not outrank traffic safety.
-- A valid debt is not a weapons permit.
-- Emergency safety is not debt forgiveness: protecting a ship or crew does not decide the underlying claim.
-- Cargo preservation does not decide cargo ownership.
-- Emergency crew/worker support can be fronted and logged without prejudging fault.
-- Violation-cost recovery should be restricted, reviewed, and separate from ordinary station profit.
-
-## Cannabis / Green Room Quick Rules
-
-- Public name: **The Green Room**. Internal/licensing name: **Grünraum**.
-- Adult use legal on Der Himmelskrug only inside controlled policy: designated areas or approved private spaces.
-- No public use, no minors, no weapons inside, no access to Restricted Works rearming facilities while impaired.
-- No cannabis/alcohol bundle promotions or pairing flights.
-- Products require dosage labels, origin records, and Medical warnings; no unlabeled edibles, mystery concentrates, or unverified vape cartridges.
-- Staff need training, assignment protections, and pay.
-- Safety-critical on-duty impairment is prohibited; legal off-duty use alone is not misconduct.
-- Destination-law screening required for sealed takeaway; consumption-only default for uncertain destinations; no sealed takeaway to Veyr-bound passengers/crew.
-- Corridor odor bleed means the room failed engineering/policy.
-
-### Cannabis jurisdiction shortcuts
-
-- Zion Drift / Port Irie: broadly permissive.
-- Tannenfall / Larkspur: restrictive and biosecurity-minded, with legal use limited to licensed/declared contexts.
-- New Bavaria: cautious around public intoxication and cannabis/alcohol pairing.
-- Relay Haven: pragmatic/tolerant in some zones; uneven product controls; strict safety-duty rules.
-- Veyr Compact: severe prohibition; some violations can be capital/permanent-exile crimes.

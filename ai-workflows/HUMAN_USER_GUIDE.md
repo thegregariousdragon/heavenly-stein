@@ -26,7 +26,7 @@ New durable facts become active canon only through canon promotion.
 
 ## Collaboration preferences
 
-Use `ai-workflows/ASSISTANT_COLLABORATION_RULES.md` for standing collaboration preferences, including:
+Use [`ai-workflows/ASSISTANT_COLLABORATION_RULES.md`](ASSISTANT_COLLABORATION_RULES.md) for standing collaboration preferences, including:
 
 - asking decision questions one at a time;
 - using branch-and-PR workflow for repo changes;
@@ -35,7 +35,7 @@ Use `ai-workflows/ASSISTANT_COLLABORATION_RULES.md` for standing collaboration p
 - using squash merge as the default merge method;
 - keeping generated local artifacts out of the repo unless requested.
 
-Use `ai-workflows/EPUB_PUBLISHING.md` when generating reader-facing EPUB files from publishable story Markdown.
+Use [`ai-workflows/EPUB_PUBLISHING.md`](EPUB_PUBLISHING.md) when generating reader-facing EPUB files from publishable story Markdown.
 
 ## The simplest starter prompt
 
@@ -103,9 +103,9 @@ Draft a rough scene from this intake:
 Keep it draft-only. Do not promote new facts into canon.
 ```
 
-If the scene is on Der Himmelskrug, the assistant should use `ai-workflows/STATION_SCENE_CHECK.md`.
+If the scene is on Der Himmelskrug, the assistant should use [`ai-workflows/STATION_SCENE_CHECK.md`](STATION_SCENE_CHECK.md).
 
-If the scene is away from the station, the assistant should use `ai-workflows/OFF_STATION_SCENE_CHECK.md`.
+If the scene is away from the station, the assistant should use [`ai-workflows/OFF_STATION_SCENE_CHECK.md`](OFF_STATION_SCENE_CHECK.md).
 
 ### Work on an off-station story
 

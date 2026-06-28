@@ -27,7 +27,7 @@ These are high-priority continuity rules that should not drift unless a later ca
 
 ## Station interior redesign locks
 
-- The current Der Himmelskrug interior layout is the completed public/residential/services/garage redesign in `canon/08-der-himmelskrug-station.md` and `quick-reference/STATION_BLOCKING_GUIDE.md`.
+- The current Der Himmelskrug interior layout is the completed public/residential/services/garage redesign in [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md) and [`quick-reference/STATION_BLOCKING_GUIDE.md`](STATION_BLOCKING_GUIDE.md).
 - Crown is fixed as a four-quadrant civic cap: Command, Administration/Civic, Learning Center, and Museum.
 - Command is the strictly restricted Crown quadrant. Admin/Civic, Learning, and Museum are controlled by purpose but are not Command-level spaces.
 - The dedicated press suite is on Hospitality Level 1, not in the Crown.
@@ -140,7 +140,7 @@ These are high-priority continuity rules that should not drift unless a later ca
 
 ## Character fingerprints
 
-- `canon/17-character-personality-and-scene-fingerprints.md` guides behavior, not mandatory tics.
+- [`canon/17-character-personality-and-scene-fingerprints.md`](../canon/17-character-personality-and-scene-fingerprints.md) guides behavior, not mandatory tics.
 - Character fingerprints do not override formal roles, authority, chronology, or mechanics files.
 - Characters can act against type under pressure, but the story should know why.
 
@@ -187,7 +187,7 @@ These are high-priority continuity rules that should not drift unless a later ca
 
 ## Station blocking guide lock
 
-- For scenes on Der Himmelskrug, use `quick-reference/STATION_BLOCKING_GUIDE.md` as the practical map/blocking reference.
+- For scenes on Der Himmelskrug, use [`quick-reference/STATION_BLOCKING_GUIDE.md`](STATION_BLOCKING_GUIDE.md) as the practical map/blocking reference.
 - The station is both a vertical stack and a route-separation system. A scene should know its level, route class, public/restricted status, visibility, sound environment, and authority owner.
 - Crown/lid media facilities are no longer a Crown press room. Press belongs in the controlled Hospitality Level 1 press suite with remote feeds from Crown Command/Admin.
 - The alpenhorn balcony was not implemented as station architecture. Alpenhorns may remain instruments, jokes, or cultural details, but not a dedicated built balcony feature.
@@ -195,7 +195,7 @@ These are high-priority continuity rules that should not drift unless a later ca
 
 ## Interior sensory locks
 
-- Surface, lighting, air, and sound guidance in `canon/08-der-himmelskrug-station.md` is active station canon.
+- Surface, lighting, air, and sound guidance in [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md) is active station canon.
 - Bavarian warmth is architectural influence, not costume. Do not turn Der Himmelskrug into a plastic novelty mug, fake castle, or generic space mall.
 - Odor bleed is a failure unless the scene is specifically about malfunction or containment stress. Brewery, food, cannabis, salon products, Medical disinfectant, garage air, decon, and Restricted Works air must remain locally controlled.
 - The Green Room / Grünraum and any performer cannabis-permitted space require dedicated ventilation. Corridor cannabis odor means engineering/policy failure.
@@ -212,8 +212,7 @@ These are high-priority continuity rules that should not drift unless a later ca
 
 ## Corporate and media organization locks
 
-- `canon/21-corporations-cooperatives-and-institutions.md` is the master file for major reusable organizations: corporations, cooperatives, guilds, public trusts, media institutions as institutions, route-service firms, contractor forces, financial actors, and organization name-bank entries.
-- `canon/11-media-feeds.md` remains the authority for media editorial behavior and public-framing rules. Do not move editorial posture wholesale into the corporations file.
+- [`canon/21-corporations-cooperatives-and-institutions.md`](../canon/21-corporations-cooperatives-and-institutions.md) is the master file for major reusable organizations: corporations, cooperatives, guilds, public trusts, media institutions as institutions, route-service firms, contractor forces, financial actors, and organization name-bank entries.
+- [`canon/11-media-feeds.md`](../canon/11-media-feeds.md) remains the authority for media editorial behavior and public-framing rules. Do not move editorial posture wholesale into the corporations file.
 - INN is based in New York, Earth. Galaxy News and Starlight Tonight are based in Los Angeles, Earth. Civic Meridian is based at Lagrange Nine. Redline Commons is distributed with a major Kestrel Minor node. RouteCast / BeaconWatch operate from Relay Haven plus distributed beacon bureaus. Across the Table is based at Glasswater. Open Route is based at Port Irie with a Lagrange Nine sales office.
 - Soft-canon organizations in `canon/21` are available for story use but remain flexible until used in prose.
-

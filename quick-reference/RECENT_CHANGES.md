@@ -4,7 +4,7 @@
 
 `Opening the Stein` is now the first locked event in the rebuilt active chronology.
 
-This promotion updates `canon/12-story-chronology.md` only as story chronology. It does **not** restore old chronology, old plots, old scene blocking, or archived story events.
+This promotion updates [`canon/12-story-chronology.md`](../canon/12-story-chronology.md) only as story chronology. It does **not** restore old chronology, old plots, old scene blocking, or archived story events.
 
 Promoted opening-event facts:
 
@@ -17,7 +17,7 @@ Promoted opening-event facts:
 
 Candidate-only details remain candidate-only unless later promoted: Mirelle Voss as a recurring character, Janna as recurring Comms/event-support staff, Marn-Taal as durable colony/culture/location reference, the specific food dish, Naya, and individual first-wave visitor reactions.
 
-Sanaa El-Masri and Lian Zhou are already active canon in `canon/09-station-leadership.md`; their opening-story actions use existing roles and do not require new promotion.
+Sanaa El-Masri and Lian Zhou are already active canon in [`canon/09-station-leadership.md`](../canon/09-station-leadership.md); their opening-story actions use existing roles and do not require new promotion.
 
 ## Continuity rebuild package
 
@@ -27,11 +27,11 @@ Changed in this package:
 
 - Removed old story prose from the active package.
 - Removed old story-specific planning files.
-- Reset `canon/12-story-chronology.md`; no previous story events are active chronology unless explicitly re-promoted.
-- Rewrote `canon/19-tested-story-precedents.md` as tested **system** precedents, not event history.
+- Reset [`canon/12-story-chronology.md`](../canon/12-story-chronology.md); no previous story events are active chronology unless explicitly re-promoted.
+- Rewrote [`canon/19-tested-story-precedents.md`](../canon/19-tested-story-precedents.md) as tested **system** precedents, not event history.
 - Preserved character-specific canon, including character files, scene fingerprints, quick cards, and shorthand/name/pronoun guidance.
 - Preserved worldbuilding canon: law, economy, corporations, institutions, locations, station layout, ships, ship systems, weapons, media feeds, governance, labor, transport, clean-side/restricted-side routing, and procedures.
-- Updated `README.md`, `MANIFEST.md`, `CANON_INDEX.md`, `canon/00-current-snapshot.md`, `quick-reference/QUICK_START.md`, planning status files, and this file to reflect the continuity rebuild.
+- Updated [`README.md`](../README.md), [`MANIFEST.md`](../MANIFEST.md), [`CANON_INDEX.md`](../CANON_INDEX.md), [`canon/00-current-snapshot.md`](../canon/00-current-snapshot.md), [`quick-reference/QUICK_START.md`](QUICK_START.md), planning status files, and this file to reflect the continuity rebuild.
 
 ## Station layout rewrite retained
 
@@ -62,7 +62,7 @@ Key retained station decisions:
 
 ## Old-event residue cleanup
 
-Removed leftover references to old story files, previous incidents, and named reset events from active canon. System principles remain in `canon/19-tested-story-precedents.md`; old plots and one-off incidents are not active canon.
+Removed leftover references to old story files, previous incidents, and named reset events from active canon. System principles remain in [`canon/19-tested-story-precedents.md`](../canon/19-tested-story-precedents.md); old plots and one-off incidents are not active canon.
 
 ## Weapon terminology sync
 
@@ -82,4 +82,4 @@ Removed leftover references to old story files, previous incidents, and named re
 
 ## Interior sensory palette and accessibility pass
 
-Added level-specific surface, lighting, air/smell, and sound canon for Der Himmelskrug. Updated the station blocking guide with a screen-reader-friendly quick guide and converted key layout tables to heading/list sections. Added `ACCESSIBILITY.md` as a dedicated screen-reader navigation and formatting guide.
+Added level-specific surface, lighting, air/smell, and sound canon for Der Himmelskrug. Updated the station blocking guide with a screen-reader-friendly quick guide and converted key layout tables to heading/list sections. Added [`ACCESSIBILITY.md`](../ACCESSIBILITY.md) as a dedicated screen-reader navigation and formatting guide.
