@@ -1,4 +1,7 @@
-# Der Himmelskrug Station
+﻿# Der Himmelskrug Station
+
+Canon navigation: [Home](README.md) | [Previous: 07 Colonies and Locations](07-colonies-and-locations.md) | [Next: 09 Station Leadership](09-station-leadership.md)
+
 
 Status: station interior layout revised for the public/residential redesign pass. This file supersedes older references that placed the public atrium through Services, placed the Crown press room in the lid, placed senior staff housing in the Crown, or treated the Cultural Level as the primary exhibit level.
 

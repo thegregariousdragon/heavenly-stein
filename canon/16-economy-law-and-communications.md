@@ -1,4 +1,7 @@
-# Economy, Law Enforcement, and Communications
+﻿# Economy, Law Enforcement, and Communications
+
+Canon navigation: [Home](README.md) | [Previous: 15 Corrections and Canon Notes](15-corrections-and-canon-notes.md) | [Next: 17 Character Personality and Scene Fingerprints](17-character-personality-and-scene-fingerprints.md)
+
 
 This file defines baseline world mechanics for interstellar commerce,
 station jurisdiction, law enforcement, and personal communications. These

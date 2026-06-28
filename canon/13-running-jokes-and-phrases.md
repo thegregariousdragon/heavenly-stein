@@ -1,4 +1,7 @@
-# Running Jokes, Phrases, and Reusable Lines
+﻿# Running Jokes, Phrases, and Reusable Lines
+
+Canon navigation: [Home](README.md) | [Previous: 12 Story Chronology](12-story-chronology.md) | [Next: 14 Open Threads](14-open-threads.md)
+
 
 ## Use note
 

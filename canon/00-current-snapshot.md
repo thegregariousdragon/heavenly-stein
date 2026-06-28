@@ -1,4 +1,7 @@
-# Current Snapshot and Project Overview
+﻿# Current Snapshot and Project Overview
+
+Canon navigation: [Home](README.md) | Previous: none | [Next: 01 Style and Continuity Rules](01-style-and-continuity-rules.md)
+
 
 The Heinz Schmitt stories are a warm, absurd, continuity-heavy space-frontier saga about Heinrich “Heinz” Schmitt: German aerospace engineer, independent captain, salvage/artifact specialist, musician, brewer’s son, reluctant public figure, and founder of Der Himmelskrug.
 

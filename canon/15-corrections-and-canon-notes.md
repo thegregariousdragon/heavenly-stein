@@ -1,4 +1,7 @@
-# Corrections and Canon Notes
+﻿# Corrections and Canon Notes
+
+Canon navigation: [Home](README.md) | [Previous: 14 Open Threads](14-open-threads.md) | [Next: 16 Economy Law and Communications](16-economy-law-and-communications.md)
+
 
 ## Continuity rebuild status
 

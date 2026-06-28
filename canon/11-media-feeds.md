@@ -1,4 +1,7 @@
-# Media and Public Perception
+﻿# Media and Public Perception
+
+Canon navigation: [Home](README.md) | [Previous: 10 Governance Labor](10-governance-labor.md) | [Next: 12 Story Chronology](12-story-chronology.md)
+
 
 ## Source-of-truth note
 

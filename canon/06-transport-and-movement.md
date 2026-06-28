@@ -1,4 +1,7 @@
-# Transport and Movement Mechanics
+﻿# Transport and Movement Mechanics
+
+Canon navigation: [Home](README.md) | [Previous: 05 Ships](05-ships.md) | [Next: 07 Colonies and Locations](07-colonies-and-locations.md)
+
 
 Personnel teleportation is point-to-point, not anywhere-to-anywhere. A
 valid transport requires an authorized origin point, an authorized

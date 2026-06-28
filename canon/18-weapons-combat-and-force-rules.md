@@ -1,4 +1,7 @@
-# Weapons, Combat, and Force Rules
+﻿# Weapons, Combat, and Force Rules
+
+Canon navigation: [Home](README.md) | [Previous: 17 Character Personality and Scene Fingerprints](17-character-personality-and-scene-fingerprints.md) | [Next: 19 Tested Story Precedents](19-tested-story-precedents.md)
+
 
 These rules define the baseline for personal weapons, starship weapons,
 shields, force escalation, and the limits that keep combat from becoming

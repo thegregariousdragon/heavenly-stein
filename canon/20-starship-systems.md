@@ -1,4 +1,7 @@
-# Starship Systems
+﻿# Starship Systems
+
+Canon navigation: [Home](README.md) | [Previous: 19 Tested Story Precedents](19-tested-story-precedents.md) | [Next: 21 Corporations Cooperatives and Institutions](21-corporations-cooperatives-and-institutions.md)
+
 
 This file defines non-weapon starship systems for story generation and continuity. It complements `canon/05-ships.md`, `canon/06-transport-and-movement.md`, `canon/18-weapons-combat-and-force-rules.md`, and `quick-reference/MECHANICS_CHEATSHEET.md`.
 
