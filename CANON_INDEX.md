@@ -2,6 +2,8 @@
 
 Read the canon files in this order. For screen-reader navigation and formatting guidance, start with [`ACCESSIBILITY.md`](ACCESSIBILITY.md).
 
+For canon-only folder traversal, use [`canon/README.md`](canon/README.md).
+
 - [`canon/00-current-snapshot.md`](canon/00-current-snapshot.md) — Current snapshot, continuity-rebuild status, station-layout snapshot, and active character/worldbuilding status.
 - [`canon/01-style-and-continuity-rules.md`](canon/01-style-and-continuity-rules.md) — Writing style and continuity rules, including name/pronoun usage policy.
 - [`canon/02-heinz-schmitt.md`](canon/02-heinz-schmitt.md) — Heinz Schmitt.
@@ -44,4 +46,4 @@ Read the canon files in this order. For screen-reader navigation and formatting 
 
 ## Story status
 
-No old story prose is included in this package. Old story plots, chronology, and scene blocking are not active canon. Future stories should be drafted from active worldbuilding canon, active character canon, the current station layout, and the system precedents in `canon/19-tested-story-precedents.md`.
+No old story prose is included in this package. Old story plots, chronology, and scene blocking are not active canon. Future stories should be drafted from active worldbuilding canon, active character canon, the current station layout, and the system precedents in [`canon/19-tested-story-precedents.md`](canon/19-tested-story-precedents.md).
