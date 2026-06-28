@@ -10,23 +10,13 @@ Story development is not canon by default.
 
 A story idea, outline, scene draft, beat sheet, or AI-generated detail becomes active canon only through the canon promotion workflow.
 
-Use:
-
-```text
-ai-workflows/CANON_PROMOTION.md
-```
-
-when a draft creates a fact that should matter later.
+Use [`ai-workflows/CANON_PROMOTION.md`](CANON_PROMOTION.md) when a draft creates a fact that should matter later.
 
 ## Station scenes are conditional
 
 Not every story has to take place on Der Himmelskrug.
 
-If a scene is on the station, use:
-
-```text
-ai-workflows/STATION_SCENE_CHECK.md
-```
+If a scene is on the station, use [`ai-workflows/STATION_SCENE_CHECK.md`](STATION_SCENE_CHECK.md).
 
 If a scene is away from the station, do not force station geography into it. Instead, check:
 
@@ -68,13 +58,7 @@ Capture:
 - whether this is draft-only, planning, or possible canon development;
 - any user-provided facts that override repo defaults for this task.
 
-Use:
-
-```text
-planning/story-intake-template.md
-```
-
-for reusable intake notes.
+Use [`planning/story-intake-template.md`](../planning/story-intake-template.md) for reusable intake notes.
 
 ## Step 2: Classify the project
 
@@ -99,11 +83,7 @@ The classification determines which context pack and checks apply.
 
 ## Step 3: Select context pack
 
-Use:
-
-```text
-ai-workflows/CONTEXT_PACKS.md
-```
+Use [`ai-workflows/CONTEXT_PACKS.md`](CONTEXT_PACKS.md).
 
 Start with the common foundation, then add only relevant packs.
 
@@ -129,11 +109,7 @@ For off-station scenes, use location, jurisdiction, transport, and communication
 
 ## Step 5: Identify characters and voice constraints
 
-Use:
-
-```text
-ai-workflows/CHARACTER_VOICE_CHECK.md
-```
+Use [`ai-workflows/CHARACTER_VOICE_CHECK.md`](CHARACTER_VOICE_CHECK.md).
 
 Check:
 
@@ -149,11 +125,7 @@ Check:
 
 ## Step 6: Draft or outline
 
-Use:
-
-```text
-ai-workflows/DRAFT_SCENE.md
-```
+Use [`ai-workflows/DRAFT_SCENE.md`](DRAFT_SCENE.md).
 
 Draft with active constraints visible.
 
@@ -174,21 +146,13 @@ Candidate canon is not active canon.
 
 ## Step 8: Revise
 
-Use:
-
-```text
-ai-workflows/REVISE_SCENE.md
-```
+Use [`ai-workflows/REVISE_SCENE.md`](REVISE_SCENE.md).
 
 Revision should improve clarity, voice, rhythm, accessibility, continuity, and consequence without flattening character behavior or system logic.
 
 ## Step 9: Audit continuity
 
-Use:
-
-```text
-ai-workflows/CONTINUITY_AUDIT.md
-```
+Use [`ai-workflows/CONTINUITY_AUDIT.md`](CONTINUITY_AUDIT.md).
 
 A useful audit should separate:
 
@@ -208,11 +172,7 @@ If the story creates a reusable fact, decide:
 - reject it for canon;
 - keep it archive-only.
 
-Use:
-
-```text
-ai-workflows/CANON_PROMOTION.md
-```
+Use [`ai-workflows/CANON_PROMOTION.md`](CANON_PROMOTION.md).
 
 ## Output modes
 
@@ -238,19 +198,4 @@ Context used:
 
 Status:
 - Draft-only / candidate canon / canon promotion needed
-
-Continuity notes:
-- <important notes>
-
-Candidate canon:
-- <items, if any>
-
-Open questions:
-- <questions, if needed>
 ```
-
-## Safety principle
-
-The story pipeline should make creation easier, not more bureaucratic.
-
-The process exists so absurd Bavarian orbital beer-stein scenes can move quickly while still respecting infrastructure, safety, law, labor, access, character continuity, privacy, and consequences.
