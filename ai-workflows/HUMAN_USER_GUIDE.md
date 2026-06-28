@@ -24,6 +24,19 @@ Drafts, examples, and planning notes are not canon by default.
 
 New durable facts become active canon only through canon promotion.
 
+## Collaboration preferences
+
+Use `ai-workflows/ASSISTANT_COLLABORATION_RULES.md` for standing collaboration preferences, including:
+
+- asking decision questions one at a time;
+- using branch-and-PR workflow for repo changes;
+- checking conflicts and mergeability before merging;
+- asking before merge unless merge was explicitly authorized;
+- using squash merge as the default merge method;
+- keeping generated local artifacts out of the repo unless requested.
+
+Use `ai-workflows/EPUB_PUBLISHING.md` when generating reader-facing EPUB files from publishable story Markdown.
+
 ## The simplest starter prompt
 
 Use this when starting real story work:
@@ -198,117 +211,3 @@ Find the likely owner file, identify conflicts, and propose a canon-update branc
 ```
 
 Drafts are playgrounds.
-
-Canon promotion is paperwork.
-
-Do not promote every cool idea. Let draft-only details prove they matter first.
-
-## How to ask for GitHub changes
-
-When the repo itself needs to change, ask directly:
-
-```text
-Create a branch and PR for this change.
-```
-
-Examples:
-
-```text
-Create a canon-update branch for this promoted detail and open a PR into main.
-```
-
-```text
-Create a planning branch for this story arc, add a planning file, and open a PR.
-```
-
-```text
-Create an ai-workflow branch for this process improvement and open a PR.
-```
-
-Use branch types from `ai-workflows/BRANCHING_MODEL.md`.
-
-## Human rhythm
-
-A practical loop:
-
-1. Brain-dump the idea.
-2. Ask for a story intake.
-3. Pick station, off-station, ship, or mixed.
-4. Ask for a rough outline.
-5. Ask for a scene draft.
-6. Ask for a continuity audit.
-7. Revise.
-8. Decide whether anything deserves canon promotion.
-
-Most story work only needs steps 1 through 6.
-
-## What not to worry about
-
-You do not need to manually remember all canon files.
-
-You do not need to fill every checklist every time.
-
-You do not need to decide every candidate canon item immediately.
-
-You do not need to make every scene happen on the station.
-
-You do not need to make the process heavy.
-
-Use the smallest sufficient context pack and expand only when the task touches a locked topic.
-
-## What the assistant should report
-
-A good assistant response should usually include:
-
-```text
-Context used:
-- <files or packs checked>
-
-Status:
-- Draft-only / candidate canon / canon promotion needed
-
-Continuity notes:
-- <important notes>
-
-Candidate canon:
-- <items, if any>
-
-Next useful step:
-- <one practical suggestion>
-```
-
-## Good human steering phrases
-
-Use these when the assistant is close but not quite right:
-
-```text
-That's too procedural. Keep the safety logic, but make the scene warmer.
-```
-
-```text
-Keep this draft-only. Do not promote the new location yet.
-```
-
-```text
-This is off-station. Stop using station geography unless the route back matters.
-```
-
-```text
-Check character competence. The joke should not make them stupid.
-```
-
-```text
-Make the sensory grounding more accessible without adding long description.
-```
-
-```text
-Give me a shorter version using only the context that matters.
-```
-
-## Final principle
-
-The workflow should help the story move faster, not make the writer fill out forms forever.
-
-Use enough structure to protect canon, character, access, labor, law, safety, privacy, and consequence.
-
-Then draft the scene.

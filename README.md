@@ -32,6 +32,10 @@ For human-facing instructions on using this repo with an AI assistant, start wit
 
 Use `ai-workflows/STORY_PIPELINE.md` for story development, `ai-workflows/CONTEXT_PACKS.md` to choose the smallest needed canon set, and `planning/story-intake-template.md` to turn messy ideas into draft-ready material.
 
+Use [`ai-workflows/ASSISTANT_COLLABORATION_RULES.md`](ai-workflows/ASSISTANT_COLLABORATION_RULES.md) for decision-question, PR, conflict-check, merge, branch-cleanup, and local-artifact preferences.
+
+Use [`ai-workflows/EPUB_PUBLISHING.md`](ai-workflows/EPUB_PUBLISHING.md) when generating local reader-facing EPUB files from publishable story Markdown.
+
 Drafts, examples, and planning notes are not canon by default. New durable facts become canon only through `ai-workflows/CANON_PROMOTION.md`.
 
 ## Most important files for station redesign
