@@ -42,51 +42,81 @@ The strongest corporate conflicts should involve maintenance, labor, routing, de
 
 **Status:** hard canon.  
 **Type:** discount-route infrastructure corporation.  
-**Base:** likely Lagrange Nine / Earth corporate channels, with route platforms and shell offices. Exact headquarters can remain flexible unless needed.  
-**Known assets:** Meridian Rest Platform, crew-bunk facilities, discount-route hospitality infrastructure, media-placement channels, shell contractors, influence operations.  
-**Canon role:** major corporate antagonist and cautionary contrast.
+**Base:** likely Lagrange Nine / Earth corporate channels, with route platforms, subsidiaries, leasing entities, and special-purpose operating companies. Exact headquarters can remain flexible unless needed.  
+**Known assets and capabilities:** Meridian Rest Platform, crew-bunk facilities, discount-route hospitality infrastructure, subsidiaries, leasing entities, subcontracted staffing and maintenance vendors, special-purpose operating companies, aggressive crisis communications, paid industry media placement, sponsored analysis, legal-pressure channels, advertiser leverage, and reputation-management consultants.  
+**Canon role:** major corporate antagonist, rival model, and cautionary contrast.
 
-OmniWay Leisure Infrastructure represents the bad version of frontier hospitality: efficient branding, thin staffing, margin-driven maintenance, outsourced responsibility, aggressive legal framing, and cheerful public surfaces over unsafe systems.
+OmniWay Leisure Infrastructure represents the bad version of frontier hospitality: a corporation that packages rest, safety, and route convenience as a discount logistics product while pushing maintenance, staffing, liability, and human cost onto workers, stranded crews, contractors, insurers, public authorities, and route users.
 
-OmniWay should not be written as cartoonishly incompetent. Its danger is that it understands contracts, perception, route dependency, discount pricing, subcontracting, and plausible deniability. It can make bad infrastructure look normal until people die.
+OmniWay's public face changes by audience. To customers and stranded crews, it sells cheerful discount hospitality: affordable bunks, convenient rest stops, route comfort, and "everyone deserves a berth" branding. To regulators, insurers, investors, and arbitration venues, it uses polished corporate infrastructure language: route optimization, passenger throughput, contracted service windows, risk allocation, and hospitality infrastructure modernization.
+
+OmniWay should not be written as cartoonishly evil or cartoonishly incompetent. Its danger is that unsafe choices can look rational inside its business model: thinner staffing, delayed maintenance, cheaper bunks, narrow service margins, outsourced accountability, aggressive claims handling, and public language that turns harm into operational variance.
+
+OmniWay uses ordinary but aggressive corporate public-relations tools. It may shape coverage through crisis communications, paid industry placement, sponsored analysis, advertiser pressure, selective disclosure, reputation-management consultants, and legal threats. It should not be treated as secretly owning, directing, or operating a major standing media feed unless a future canon update deliberately creates that specific scandal.
+
+OmniWay should not be treated as using private contractor forces as part of its core canon. It may use ordinary vendors, subcontractors, lawyers, consultants, maintenance firms, staffing firms, PR firms, insurers, subsidiaries, leasing entities, and special-purpose operating companies, but it is not the hidden parent or commander of Mirador Asset Protection Group.
 
 **Relationship to Der Himmelskrug:** rival model, antagonist, cautionary contrast, and source of accountability pressure.
 
-**Story uses:** corporate liability, hidden maintenance failures, influence operations, safety theater, discount-route exploitation, shell contractors, ex-employee witnesses, legal accountability, restitution fights.
+**Story uses:** corporate liability, hidden maintenance failures, unsafe discount-route platforms, crew-bunk exploitation, cheerful branding over unsafe systems, crisis communications, legal accountability, restitution fights, insurance disputes, public-trust conflicts, and the contrast between extractive hospitality logistics and civic hospitality infrastructure.
 
-**Continuity lock:** OmniWay uses contracts, perception, route dependency, subcontracting, and plausible deniability. It should remain competent enough to be dangerous.
+**Continuity lock:** OmniWay remains hard canon as a dangerous discount-route infrastructure corporation and cautionary contrast to Der Himmelskrug. Its power comes from unsafe systems made plausible through contracts, pricing, branding, route dependency, outsourced responsibility, legal pressure, and ordinary corporate public relations. It does not control Frontier Truthline and is not the hidden parent or commander of Mirador Asset Protection Group.
 
 ### Mirador Asset Protection Group
 
 **Status:** hard canon.  
-**Type:** private contractor / asset-protection force.  
-**Base:** OmniWay-linked contractor network; exact headquarters flexible.  
-**Canon role:** thug-like contractor force used in false asset-protection actions.
+**Type:** private asset-protection and facility-control contractor.  
+**Base:** Minsk, Belarus, Earth, with legal registrations, regional enforcement offices, and mobile teams near major arbitration, creditor, shipping, and route-infrastructure hubs.  
+**Canon role:** independent contractor-force antagonist and systemic abuse actor.
 
-Mirador Asset Protection Group is the sharp end of corporate denial. It operates in the language of asset recovery, contractual enforcement, facility security, and creditor protection, but its practical function is intimidation, seizure, and control.
+Mirador Asset Protection Group is not OmniWay's muscle and is not linked to OmniWay's ecosystem. It is an independent asset-protection and facility-control contractor that operates where creditor enforcement meets corporate and facility control.
 
-Mirador proves that corporate pressure in this universe is not limited to lawyers and public relations. It can become armed, coercive, and physically dangerous.
+Mirador's public face changes by client. To creditors, lenders, debt brokers, and insurers, it sells asset protection, recovery logistics, lien-enforcement support, disputed-property stabilization, and creditor-risk mitigation. To corporations, landlords, station operators, platform owners, and facility managers, it sells facility security, continuity services, site-control support, emergency access management, and operational-risk containment.
 
-**Relationship to Der Himmelskrug:** threat actor and investigation target through contractor-force and asset-protection abuse.
+In practice, these services can become intimidation, seizure, lockout, coercive access control, and private violence wrapped in administrative language.
 
-**Story uses:** private force, contract abuse, false liens, hostage-like infrastructure seizures, "security" used as corporate violence, IFP intervention thresholds.
+Mirador is most dangerous where creditor enforcement meets facility control: liens, disputed ownership, receiverships, repossessions, labor lockouts, cargo seizures, ship-access denial, and private security contracts. It specializes in making coercion look administrative until someone is trapped behind a locked hatch, barred from their ship, denied access to cargo, or forced to choose between safety and paperwork.
 
-**Continuity lock:** Mirador is linked to OmniWay's ecosystem but should remain legally deniable enough to create investigation and accountability problems.
+Mirador's legality varies by team, client, and jurisdiction. Some operations remain barely legal but abusive; others cross into false authority, coercive detention, fraud, evidence control, or illegal force. The company's danger is that leadership can deny intent by blaming field teams, clients, paperwork ambiguity, or jurisdictional delay.
+
+Mirador is not a military force or battlefield contractor. It is a private asset-protection and facility-control company. However, some field teams can look paramilitary in permissive, corrupt, or weakly supervised jurisdictions, especially when body armor, drones, restraints, access-control gear, legal weapons, or coordinated lockout tactics are involved.
+
+Mirador's visible force profile varies by jurisdiction and team. Some operations rely on paperwork, access control, numbers, barriers, drones, and implied force. Others use legal security gear or weapons where allowed, and abusive cells may cross into illegal force.
+
+Near Der Himmelskrug, any attempt to bring coercive contractor-force tactics into station authority, docking, cargo, crew-access systems, clean-side routing, restricted-side routing, or Flight Control space triggers immediate Security, Compliance, Flight Control, and possibly IFP attention.
+
+**Relationship to Der Himmelskrug:** direct threat actor and investigation target. Mirador may threaten station interests through attempted seizures, lockouts, intimidation, false control actions, cargo interference, ship-access denial, or crew coercion. It may also become an investigation target when IFP, station authorities, creditors, labor bodies, or partner-colony governments uncover broader contractor-force abuse.
+
+**Story uses:** private force, contract abuse, false liens, ship or cargo seizure, facility lockouts, creditor abuse, labor lockouts, false authority, evidence control, jurisdictional delay, IFP intervention thresholds, and the boundary between lawful recovery and private violence.
+
+**Continuity lock:** Mirador remains hard canon but is independent from OmniWay. Its menace comes from creditor enforcement, facility control, coercive access tactics, and deniable field operations, not from being a military force or a single corporation's secret army.
 
 ### Frontier Truthline
 
 **Status:** hard canon.  
-**Type:** former far-right / populist outrage media feed; covert influence operation.  
-**Base:** shell offices and rented production spaces; likely Lagrange Nine legal shells plus distributed production.  
-**Canon role:** exposed OmniWay-directed influence operation.
+**Type:** active far-right / right-populist media ecosystem.  
+**Base:** Dallas, Texas, Earth, with distributed route contributors, affiliated personalities, clip channels, local stringers, grievance forums, podcasts, and touring live events.  
+**Canon role:** independent hostile media ecosystem and public-pressure actor.
 
-Frontier Truthline is a bad-faith outrage media operation that weaponizes real anxieties about private authority, frontier infrastructure, family influence, and cultural legitimacy. Its main feed is no longer a major active outlet, but remnants, splinter personalities, archives, lawsuits, migrated viewers, successor feeds, or monetized grievance channels may persist.
+Frontier Truthline is an active far-right / right-populist outrage media ecosystem. It is not controlled by OmniWay. Its hostility to Der Himmelskrug comes from its own ideology, audience incentives, commercial incentives, and grievance politics.
 
-**Relationship to Der Himmelskrug:** discredited hostile influence feed whose damage remains part of public-memory and legal aftermath.
+Frontier Truthline's institutional structure includes a flagship feed, affiliated streamers, podcasts, local stringers, clip channels, grievance forums, route-based contributors, and touring live events. Its flagship studio voice is polished outrage: high-production anchors, legalistic phrasing, expert panels, sharp segment titles, donor-friendly anger, and controlled studio presentation. Its wider ecosystem is louder, messier, and more volatile: streamers, clips, slogans, harassment cascades, conspiracy-adjacent pile-ons, and live-event grievance politics.
 
-**Story uses:** media laundering, bad-faith framing, conspiracy migration, reputation damage, defamation suits, leaked data, post-collapse remnants.
+Frontier Truthline is an outrage machine, not a truth machine. It should not be written as magically wrong about every fact. Its danger is that real documents, sincere witnesses, procedural mistakes, cultural discomfort, and legitimate governance questions can enter a media system that turns them into grievance, scapegoating, harassment, security panic, and operational pressure.
 
-**Continuity lock:** Frontier Truthline is no longer a major active feed, but its damage and audience migration remain story fuel.
+Its primary Der Himmelskrug frame is that Heinz is an unelected frontier king using hospitality, family charm, rescue mythology, and route-safety authority to rule The Knot. Its secondary frame attacks the station as soft-pluralist social engineering. Its tertiary frame escalates security and border panic whenever arrivals, transport, customs, dirty-side routing, or public events create exploitable fear.
+
+Frontier Truthline may align with OmniWay's interests when attacking regulators, unions, restitution frameworks, IFP oversight, station governance, or "elite" civic infrastructure, but that alignment is opportunistic and ideological, not evidence of OmniWay control. It may also attack OmniWay or similar corporations when corporate power fits its grievance narrative.
+
+Recurring Frontier Truthline frames may include: "Who elected the beer king?", "One family should not own The Knot," "Soft borders, hard consequences," "The Knot belongs to route families, not station elites," "They call it pluralism. You call it being processed," and "Every checkpoint has a taproom now."
+
+Possible internal brands include **The Truthline Desk** for the flagship studio feed, **The Line Holds** for security, border, and route-panic coverage, and **Truthline Live** for touring grievance events.
+
+**Relationship to Der Himmelskrug:** hostile media ecosystem, public-pressure actor, source of bad-faith scrutiny, occasional source of real facts framed destructively, and ideological antagonist.
+
+**Story uses:** outrage cycles, harassment cascades, selective leaks, hostile interviews, grievance witnesses, cultural panic, security panic, anti-pluralist campaigns, public meetings made uglier, sponsor or vendor pressure, and serious questions made harder to answer because of bad-faith framing.
+
+**Continuity lock:** Frontier Truthline is independent from OmniWay. It is an active far-right / right-populist media ecosystem, not a collapsed OmniWay-directed influence operation.
 
 ## Media organizations as institutions
 
@@ -96,6 +126,7 @@ Media editorial posture remains governed by `canon/11-media-feeds.md`. These ent
 
 **Status:** hard canon.  
 **Type:** major interstellar corporate news network.  
+**Political lean:** center-right institutional media; conservative but not equivalent to Frontier Truthline.  
 **Base:** New York, Earth.  
 **Editorial authority file:** `canon/11-media-feeds.md`.
 
@@ -109,6 +140,7 @@ As an institution, INN has access to old Earth finance, law, diplomacy, route-po
 
 **Status:** hard canon.  
 **Type:** major interstellar corporate news network.  
+**Political lean:** center-left institutional media; liberal but not equivalent to Redline Commons.  
 **Base:** Los Angeles, Earth.  
 **Editorial authority file:** `canon/11-media-feeds.md`.
 
@@ -143,6 +175,17 @@ Redline Commons is not a corporate tower. It is a distributed anti-corporate, pr
 A major Kestrel Minor node fits its concern with debt, liens, private infrastructure, and small-operator pressure.
 
 **Story uses:** partially right critiques, ideological overreach, worker testimony, debt investigations, pressure campaigns, slogans that sting because they are not always wrong.
+
+### Frontier Truthline
+
+**Status:** hard canon media feed.  
+**Type:** active far-right / right-populist media ecosystem.  
+**Base:** Dallas, Texas, Earth, with distributed route contributors, affiliated personalities, clip channels, podcasts, local stringers, grievance forums, and touring live events.  
+**Editorial authority file:** `canon/11-media-feeds.md`.
+
+Frontier Truthline's flagship feed is polished, legally careful outrage. Its wider ecosystem is messier, personality-driven, volatile, and harder to control. It functions as the broad right-populist counterpart to Redline Commons without being a simple mirror. Redline Commons asks who owns the infrastructure and why workers and residents do not control it. Frontier Truthline asks who let these people rule the frontier and what they are hiding from ordinary route families.
+
+**Story uses:** polished hostile segments, volatile affiliate escalation, slogan-driven campaigns, route-family grievance stories, anti-pluralist framing, security panic, public-pressure campaigns, and real facts converted into harmful narratives.
 
 ### RouteCast / BeaconWatch
 
