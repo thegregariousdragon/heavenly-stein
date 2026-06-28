@@ -12,3 +12,9 @@ This folder is for story prose packages.
 ## Current subfolders
 
 - `publishable/` — story packages intended for publication or publication review.
+
+## Reader artifacts
+
+Use `ai-workflows/EPUB_PUBLISHING.md` when generating reader-facing EPUB files from publishable story Markdown.
+
+Generated EPUBs are local artifacts by default. Do not commit generated EPUB files back to the repo unless the author explicitly asks.
