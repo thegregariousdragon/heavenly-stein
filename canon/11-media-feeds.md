@@ -18,25 +18,29 @@ These base locations are canon unless a later story deliberately revises them. E
 - **Starlight Tonight**: Los Angeles, Earth; entertainment and celebrity interstellar feed tied to festival, music, fashion, and public-image machinery.
 - **Across the Table**: Glasswater; food, brewing, hospitality, sourcing, allergen-safety, and supply-chain feed.
 - **Open Route**: Port Irie, Zion Drift, with a Lagrange Nine sales office; travel and destination feed with advertiser and tourism-board ties.
-- **Frontier Truthline**: former shell-office and rented-production network with likely Lagrange Nine legal shells; exposed OmniWay-directed influence operation, no longer a major active feed.
+- **Frontier Truthline**: Dallas, Texas, Earth, with distributed route contributors, affiliated personalities, clip channels, local stringers, grievance forums, podcasts, and touring live events.
 - **Technical feeds**: distributed specialist feeds; bases vary by discipline, route, institution, or engineering community.
 
 ## Editorial posture and public-perception behavior
-- **INN / Interstellar News Network**: conservative cable-news
+- **INN / Interstellar News Network**: center-right institutional media and conservative cable-news
   equivalent. Values order, defense readiness, private property, strong
   borders, disciplined institutions, and route stability. INN may
   respect Heinz and Der Himmelskrug as frontier initiative and
   disciplined infrastructure while still asking hard questions about
   private authority and accountability. INN is not Frontier Truthline;
   it can be skeptical and uncomfortable without being bad faith.
-- **Galaxy News**: liberal cable-news equivalent. Values humanitarian
+- **Galaxy News**: center-left institutional media and liberal cable-news equivalent. Values humanitarian
   systems, mutual aid, cultural pluralism, labor networks, worker
   safety, civic pluralism, and accountability. Galaxy often sees Der
   Himmelskrug as collaborative civic infrastructure but should continue
   asking serious governance, labor, oversight, and
   concentrated-authority questions. Galaxy scrutiny is not automatically
   bad faith.
-- **Frontier Truthline**: former far-right / populist outrage feed and bad-faith influence operation. It weaponized real anxieties about private authority, frontier infrastructure, family influence, and cultural legitimacy. Its main feed is no longer a major active outlet, though remnants, splinters, lawsuits, archives, and migrated audiences may remain.
+- **Frontier Truthline**: active far-right / right-populist outrage media ecosystem. It is independent from OmniWay. Its flagship base is Dallas, Texas, Earth, with affiliated streamers, podcasts, local stringers, clip channels, grievance forums, route-based contributors, and touring live events. Frontier Truthline weaponizes real anxieties about private authority, frontier infrastructure, family influence, cultural legitimacy, labor politics, security, and public safety.
+  Its main Der Himmelskrug frame is that Heinz is an unelected frontier king using hospitality, family charm, rescue mythology, and route-safety authority to rule The Knot. Its secondary frame attacks the station as soft-pluralist social engineering. Its tertiary frame escalates security and border panic whenever arrivals, transport, customs, dirty-side routing, or public events create exploitable fear.
+  Frontier Truthline is an outrage machine, not a truth machine. It should not be written as magically wrong about every fact. Its danger is that real documents, sincere witnesses, procedural mistakes, cultural discomfort, and legitimate governance questions can enter a media system that turns them into grievance, scapegoating, harassment, security panic, and operational pressure.
+  Frontier Truthline may align with OmniWay's interests when attacking regulators, unions, restitution frameworks, IFP oversight, station governance, or "elite" civic infrastructure, but that alignment is opportunistic and ideological, not evidence of OmniWay control. It may also attack OmniWay or similar corporations when corporate power fits its grievance narrative.
+  Recurring Frontier Truthline frames may include "Who elected the beer king?", "One family should not own The Knot," "Soft borders, hard consequences," "The Knot belongs to route families, not station elites," "They call it pluralism. You call it being processed," and "Every checkpoint has a taproom now." Possible internal brands include **The Truthline Desk** for the flagship studio feed, **The Line Holds** for security, border, and route-panic coverage, and **Truthline Live** for touring grievance events.
 - **Redline Commons**: independent far-left / left-populist activist
   feed. It is not controlled by OmniWay. It is sincerely anti-corporate,
   anti-private authority, anti-militarization, pro-worker, pro-resident
@@ -110,7 +114,7 @@ These base locations are canon unless a later story deliberately revises them. E
   a crew of five after a successful cargo run; media framed it through
   labor/frontier symbolism in different ways.
 - **Media presence rule**: avoid leaving INN, Galaxy News, Civic
-  Meridian, Redline Commons, Starlight Tonight, Across the Table, Open
+  Meridian, Redline Commons, Frontier Truthline, Starlight Tonight, Across the Table, Open
   Route, RouteCast, or other media physically present on station unless
   there is a specific story reason such as a scheduled segment, summit,
   investigation, hearing, public event, weather/route advisory, festival,
@@ -125,6 +129,7 @@ Likely reactions to governance reform:
 - Galaxy News: “Der Himmelskrug takes major step toward accountable
   civic infrastructure.”
 - Redline Commons: “Beer station adds committees, still not democracy.”
+- Frontier Truthline: “Beer king adds committees, keeps throne.”
 - Civic Meridian: “Der Himmelskrug answers critics with historic
   governance shift; questions remain from all sides.”
 
