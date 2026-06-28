@@ -24,7 +24,7 @@ Use [`ACCESSIBILITY.md`](ACCESSIBILITY.md) for screen-reader navigation notes, r
 
 ## Source of truth
 
-Markdown files are the editable source of truth. Use [`CANON_INDEX.md`](CANON_INDEX.md) for reading order and [`quick-reference/QUICK_START.md`](quick-reference/QUICK_START.md) for a fast orientation.
+Markdown files are the editable source of truth. Use [`CANON_INDEX.md`](CANON_INDEX.md) for reading order, [`canon/README.md`](canon/README.md) for canon-only folder traversal, and [`quick-reference/QUICK_START.md`](quick-reference/QUICK_START.md) for a fast orientation.
 
 ## Using this repo with AI
 
