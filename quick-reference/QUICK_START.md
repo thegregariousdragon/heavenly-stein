@@ -14,7 +14,7 @@ Der Himmelskrug, “The Heavenly Stein,” is a tall beer-stein-shaped orbital b
 
 ## Sensory and accessibility note
 
-For station scenes, check `canon/08-der-himmelskrug-station.md` and `quick-reference/STATION_BLOCKING_GUIDE.md` for level-specific surface, lighting, air/smell, and sound guidance. Use a few specific sensory details rather than long visual tours. Do not rely only on color; name the light mode, sign, district, door, or route.
+For station scenes, check [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md) and [`quick-reference/STATION_BLOCKING_GUIDE.md`](STATION_BLOCKING_GUIDE.md) for level-specific surface, lighting, air/smell, and sound guidance. Use a few specific sensory details rather than long visual tours. Do not rely only on color; name the light mode, sign, district, door, or route.
 
 ## Continuity rebuild rule
 
@@ -27,7 +27,7 @@ Active canon includes:
 - ships, ship systems, transport, weapons, and force rules;
 - Der Himmelskrug’s redesigned station layout;
 - Arrival Control, clean-side/restricted-side routing, Flight Control authority, The Green Room / Grünraum, The Spare Tap, and station procedures;
-- system precedents in `canon/19-tested-story-precedents.md`.
+- system precedents in [`canon/19-tested-story-precedents.md`](../canon/19-tested-story-precedents.md).
 
 Old story plots, chronology, and scene blocking are not active canon. No old story archive is included.
 
@@ -44,7 +44,7 @@ Old story plots, chronology, and scene blocking are not active canon. No old sto
 9. Starship Garage
 10. Restricted Works
 
-Use `quick-reference/STATION_BLOCKING_GUIDE.md` and `canon/08-der-himmelskrug-station.md` for station scenes.
+Use [`quick-reference/STATION_BLOCKING_GUIDE.md`](STATION_BLOCKING_GUIDE.md) and [`canon/08-der-himmelskrug-station.md`](../canon/08-der-himmelskrug-station.md) for station scenes.
 
 ## Crown fixed layout
 
@@ -63,13 +63,13 @@ Character specifics are active canon. Check names, pronouns, authority, relation
 
 Use:
 
-- `quick-reference/CHARACTER_QUICK_CARDS.md`
-- `quick-reference/SHORTHAND_DECODER.md`
-- `canon/02-heinz-schmitt.md`
-- `canon/03-family.md`
-- `canon/04-core-relationships.md`
-- `canon/09-station-leadership.md`
-- `canon/17-character-personality-and-scene-fingerprints.md`
+- [`quick-reference/CHARACTER_QUICK_CARDS.md`](CHARACTER_QUICK_CARDS.md)
+- [`quick-reference/SHORTHAND_DECODER.md`](SHORTHAND_DECODER.md)
+- [`canon/02-heinz-schmitt.md`](../canon/02-heinz-schmitt.md)
+- [`canon/03-family.md`](../canon/03-family.md)
+- [`canon/04-core-relationships.md`](../canon/04-core-relationships.md)
+- [`canon/09-station-leadership.md`](../canon/09-station-leadership.md)
+- [`canon/17-character-personality-and-scene-fingerprints.md`](../canon/17-character-personality-and-scene-fingerprints.md)
 
 ## Always check for these topics
 
