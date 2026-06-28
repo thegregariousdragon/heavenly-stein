@@ -1,4 +1,4 @@
-﻿# Current Snapshot and Project Overview
+# Current Snapshot and Project Overview
 
 Canon navigation: [Home](README.md) | Previous: none | [Next: 01 Style and Continuity Rules](01-style-and-continuity-rules.md)
 

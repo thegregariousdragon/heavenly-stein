@@ -1,4 +1,4 @@
-﻿# Story Chronology
+# Story Chronology
 
 Canon navigation: [Home](README.md) | [Previous: 11 Media Feeds](11-media-feeds.md) | [Next: 13 Running Jokes and Phrases](13-running-jokes-and-phrases.md)
 

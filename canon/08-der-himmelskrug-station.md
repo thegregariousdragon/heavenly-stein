@@ -1,4 +1,4 @@
-﻿# Der Himmelskrug Station
+# Der Himmelskrug Station
 
 Canon navigation: [Home](README.md) | [Previous: 07 Colonies and Locations](07-colonies-and-locations.md) | [Next: 09 Station Leadership](09-station-leadership.md)
 

@@ -1,4 +1,4 @@
-﻿# Character Personality and Scene Fingerprints
+# Character Personality and Scene Fingerprints
 
 Canon navigation: [Home](README.md) | [Previous: 16 Economy Law and Communications](16-economy-law-and-communications.md) | [Next: 18 Weapons Combat and Force Rules](18-weapons-combat-and-force-rules.md)
 

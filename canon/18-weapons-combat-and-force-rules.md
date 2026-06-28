@@ -1,4 +1,4 @@
-﻿# Weapons, Combat, and Force Rules
+# Weapons, Combat, and Force Rules
 
 Canon navigation: [Home](README.md) | [Previous: 17 Character Personality and Scene Fingerprints](17-character-personality-and-scene-fingerprints.md) | [Next: 19 Tested Story Precedents](19-tested-story-precedents.md)
 

@@ -1,4 +1,4 @@
-﻿# Corporations, Cooperatives, Guilds, and Institutions
+# Corporations, Cooperatives, Guilds, and Institutions
 
 Canon navigation: [Home](README.md) | [Previous: 20 Starship Systems](20-starship-systems.md) | Next: none
 

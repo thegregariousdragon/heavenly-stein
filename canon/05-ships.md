@@ -1,4 +1,4 @@
-﻿# Ships
+# Ships
 
 Canon navigation: [Home](README.md) | [Previous: 04 Core Relationships](04-core-relationships.md) | [Next: 06 Transport and Movement](06-transport-and-movement.md)
 

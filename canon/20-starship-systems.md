@@ -1,4 +1,4 @@
-﻿# Starship Systems
+# Starship Systems
 
 Canon navigation: [Home](README.md) | [Previous: 19 Tested Story Precedents](19-tested-story-precedents.md) | [Next: 21 Corporations Cooperatives and Institutions](21-corporations-cooperatives-and-institutions.md)
 

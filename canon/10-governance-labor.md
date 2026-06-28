@@ -1,4 +1,4 @@
-﻿# Governance Evolution, Labor, and Civic Institutions
+# Governance Evolution, Labor, and Civic Institutions
 
 Canon navigation: [Home](README.md) | [Previous: 09 Station Leadership](09-station-leadership.md) | [Next: 11 Media Feeds](11-media-feeds.md)
 

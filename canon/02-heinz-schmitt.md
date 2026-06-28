@@ -1,4 +1,4 @@
-﻿# Heinz Schmitt
+# Heinz Schmitt
 
 Canon navigation: [Home](README.md) | [Previous: 01 Style and Continuity Rules](01-style-and-continuity-rules.md) | [Next: 03 Family](03-family.md)
 

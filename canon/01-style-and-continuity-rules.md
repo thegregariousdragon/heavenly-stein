@@ -1,4 +1,4 @@
-﻿# Writing Style and Continuity Rules
+# Writing Style and Continuity Rules
 
 Canon navigation: [Home](README.md) | [Previous: 00 Current Snapshot](00-current-snapshot.md) | [Next: 02 Heinz Schmitt](02-heinz-schmitt.md)
 

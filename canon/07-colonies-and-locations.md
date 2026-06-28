@@ -1,4 +1,4 @@
-﻿# Colonies, Stations, Routes, and Jurisdictions
+# Colonies, Stations, Routes, and Jurisdictions
 
 Canon navigation: [Home](README.md) | [Previous: 06 Transport and Movement](06-transport-and-movement.md) | [Next: 08 Der Himmelskrug Station](08-der-himmelskrug-station.md)
 
