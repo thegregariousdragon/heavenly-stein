@@ -32,7 +32,7 @@ Avoid making every company a villain. The universe is more useful if organizatio
 - Cooperatives and guilds that protect workers but can become rigid or territorial.
 - Public trusts and care institutions that do good work while depending on imperfect funding.
 - Media institutions that shape truth, rumor, pressure, and grief.
-- Shell firms and contractors that allow larger actors to deny responsibility.
+- Shell firms and contractors that create accountability fog without implying every bad actor shares one owner or command structure.
 
 The strongest corporate conflicts should involve maintenance, labor, routing, debt, insurance, food safety, media framing, emergency authority, and public trust.
 
