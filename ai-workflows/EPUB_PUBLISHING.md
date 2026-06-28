@@ -22,11 +22,7 @@ Do not generate a PDF by default when the author asks for the most accessible re
 
 Use the publishable Markdown file in the story package as the source.
 
-For `Opening the Stein`, the source is:
-
-```text
-stories/publishable/opening-the-stein/opening-the-stein.md
-```
+For `Opening the Stein`, the source is [`stories/publishable/opening-the-stein/opening-the-stein.md`](../stories/publishable/opening-the-stein/opening-the-stein.md).
 
 Do not use `story-dev/` draft files for publication unless the author explicitly asks to publish a draft or replace the publishable source.
 
