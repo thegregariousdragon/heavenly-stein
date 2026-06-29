@@ -76,7 +76,13 @@ Emotional beat: Der Himmelskrug is safe, not omniscient.
 
 Location: Starship Garage intake, with controlled handling from the freighter.
 
-*Opportunity Knocks* is unloaded from *Last Good Haul*. Garage staff recognize her. Oskar Teague shuts down gawking and turns the moment into intake. Fame does not replace inspection.
+*Opportunity Knocks* is unloaded from *Last Good Haul*. Garage staff recognize her. The intake briefly fills with barely contained ship-nerd awe: whispered race memories, someone muttering that she is not a replica, and at least one staffer trying very hard not to grin.
+
+Oskar Teague shuts down gawking and turns the moment into intake. Fame does not replace inspection.
+
+Possible Oskar line:
+
+> If anyone drools on my diagnostic pad, they clean the coolant trench.
 
 Emotional beat: a legend arrives on handling pads and still has to pass diagnostics.
 
@@ -84,7 +90,13 @@ Emotional beat: a legend arrives on handling pads and still has to pass diagnost
 
 Location: Crown / staff comms / race administration route.
 
-Senior staff quietly notify leadership that *Opportunity Knocks* is in the garage. Heinz badly wants to see her, but he does not override protocol. He lets the right people work.
+Senior staff quietly notify leadership that *Opportunity Knocks* is in the garage. Heinz freezes, then tries very hard to act like a dignified station founder. Feli or Rolf may quietly note that he is gripping the table.
+
+Heinz badly wants to see the ship, but he does not override protocol. He lets the right people work.
+
+Possible Heinz line:
+
+> I am being very normal about this.
 
 Emotional beat: Heinz's restraint shows that the station is bigger than its founder's enthusiasm.
 
@@ -102,6 +114,12 @@ Location: race registration point.
 
 Sven registers *Opportunity Knocks* for the Himmelskrug Run. The paperwork confirms inspection conditions and Flight Control authority. Heinz meets Sven and treats him like a pilot who deserves process, not charity.
 
+Heinz briefly lets the ship-nerd joy leak through, catches Sven's discomfort, and pulls himself back. He makes clear that the station will treat *Opportunity Knocks* as a registered craft under garage protocol, not as a trophy.
+
+Possible Heinz line:
+
+> I will now say one historically undignified thing, and then we will return to paperwork.
+
 Emotional beat: Sven is seen without being exposed.
 
 ## Beat 13: The repair problem
@@ -116,7 +134,7 @@ Emotional beat: Sven's family knowledge becomes evidence.
 
 Location: Starship Garage / engineering diagnostic station.
 
-Oskar escalates the issue to Rolf. Rolf confirms that the resonance / feedback lag could become dangerous during Kaltmond's gravity line or the Twins' Teeth. The repair plan changes. Sven collaborates with the team.
+Oskar escalates the issue to Rolf. Rolf confirms that the resonance / feedback lag could become dangerous during Kaltmond's gravity-assisted slingshot, the Twins' Teeth yaw/roll passage, or the repeated corrections of The Gauntlet. The repair plan changes. Sven collaborates with the team.
 
 Emotional beat: Sven earns respect before he earns applause.
 
@@ -168,6 +186,8 @@ Location: Starship Garage and family support spaces.
 
 Over several days, Sven works with Oskar and the garage team to repair and retune *Opportunity Knocks*. Freya handles legal updates, financial records, and family needs. Ingrid helps Nora settle and privately keeps the family racing history alive.
 
+The garage levity continues in controlled doses: staff remain professional, but quiet awe follows *Opportunity Knocks* through the repair bay. Oskar keeps reminding everyone that legends still need torque checks.
+
 Emotional beat: the ship is not restored by nostalgia. It is restored by labor.
 
 ## Beat 21: Race clearance
@@ -196,49 +216,109 @@ The Himmelskrug Run begins. Sven starts conservatively, testing the repaired res
 
 Emotional beat: Sven is not timid. He is listening.
 
-## Beat 24: Kaltmond slingshot
+## Beat 24: Opening chicanes
+
+Location: early Knotward Run course.
+
+The opening chicanes establish the race rhythm. Sven stays legal, avoids unnecessary duels, and feels for the repaired response before committing to the more dangerous course features.
+
+Emotional beat: control comes before spectacle.
+
+## Beat 25: High-speed Kaltmond slingshot
 
 Location: Kaltmond gravity corridor.
 
-Sven takes a legal but terrifying gravity-assist line around Kaltmond. Ren confirms that telemetry remains inside the legal corridor. Flight Control confirms course legality. Maude recognizes the precision.
+Sven commits to a high-speed gravity-assisted slingshot around Kaltmond. The maneuver requires entering the moon's legal gravity corridor at a precise angle. Too shallow and he loses the speed boost. Too wide and Flight Control disqualifies him for leaving the corridor. Too deep and the barren moon becomes a wall.
 
-Emotional beat: the old legend flickers awake in a new pilot's hands.
-
-## Beat 25: The Twins' Teeth
-
-Location: asteroid gate on the Knotward Run.
-
-Sven aims for the Twins' Teeth. Most pilots avoid the gate or slow enough to lose time. *Opportunity Knocks* answers cleanly. Sven threads the gap.
-
-Possible commentary:
-
-> That is an Andersen line.
+*Opportunity Knocks* answers cleanly, and Kaltmond flings Sven toward the exit chicane with more speed than the field expects.
 
 Possible Maude line:
 
-> That is *Opportunity Knocks*. Not a replica. Not a tribute shell. That is her.
+> Too shallow, he loses the boost. Too wide, Flight Control throws the flag. Too deep, Kaltmond keeps him.
+
+Emotional beat: the old legend flickers awake in a new pilot's hands.
+
+## Beat 26: Kaltmond exit chicane
+
+Location: Kaltmond exit corridor.
+
+Sven must convert the slingshot's speed into a legal exit line. The exit chicane punishes pilots who leave Kaltmond too hot, too wide, or too proud to bleed a little speed. Sven carries the advantage without losing the setup for the Twins' Teeth.
+
+Emotional beat: speed only matters if he can keep using it.
+
+## Beat 27: The Twins' Teeth
+
+Location: asteroid gate on the Knotward Run.
+
+Sven aims for the Twins' Teeth. The two asteroids do not form a straight slot. The legal line is an angled, offset gap that requires a precise yaw and roll so *Opportunity Knocks* presents her narrowest safe profile while carrying speed.
+
+Most pilots avoid the gate or slow enough to lose time. Sven trusts the repaired response and threads the gap as a shape problem, not a straight-line dare.
+
+Possible Ren line:
+
+> That is not a straight gap. Viewers, watch the roll. He has to turn the ship through the line, not merely fly between the rocks.
+
+Possible Maude line:
+
+> He is showing the Teeth her narrow side.
 
 Emotional beat: Sven stops being only Lars's son.
 
-## Beat 26: Final acceleration recovery
+## Beat 28: Teeth-to-Gauntlet chicane
+
+Location: course segment between the Twins' Teeth and The Gauntlet.
+
+After the asteroid gate, Sven has to recover angle before entering The Gauntlet. The chicane prevents the Twins' Teeth from becoming a simple slingshot into the next feature. A pilot who exits the Teeth badly enters The Gauntlet compromised.
+
+Emotional beat: survival is not enough. The next line is already asking a question.
+
+## Beat 29: The Gauntlet
+
+Location: sanctioned high-precision corridor on the Knotward Run.
+
+The Gauntlet is a dense, Flight-Control-monitored corridor of rapid gates, tight turns, sensor-shadow pockets, and course pylons. It is legal, famous, and hated because it punishes sloppy handling after pilots are already tired and overcommitted.
+
+Sven has to make repeated yaw, roll, and thrust corrections under load. The repaired frame resonance does not return. *Opportunity Knocks* answers fast enough to make the impossible look practiced.
+
+Possible Ren line:
+
+> He carried Kaltmond speed through the Teeth, and now he has to carry precision through The Gauntlet.
+
+Emotional beat: the repair holds under sustained pressure.
+
+## Beat 30: Final acceleration recovery
 
 Location: final Knotward Run approach corridor.
 
-After the asteroid gate, *Opportunity Knocks* needs to recover acceleration quickly. The repaired frame resonance does not feed lag back into the pilot-feedback interface. The ship answers cleanly. Sven takes the lead and crosses the finish first.
+After The Gauntlet, *Opportunity Knocks* needs to recover acceleration quickly. The ship answers cleanly. Sven takes the lead or extends it, but the final approach still requires composure.
 
 Emotional beat: the ship answered him.
 
-## Beat 27: Immediate finish aftermath
+## Beat 31: The Last Pour
+
+Location: final kink before the finish corridor.
+
+The Last Pour is the named final kink heading toward the finish line. It looks simple compared with Kaltmond, the Twins' Teeth, and The Gauntlet, but it punishes pilots who arrive with too much speed, too little patience, or a bad exit angle.
+
+Sven takes The Last Pour cleanly and enters the finish corridor.
+
+Possible Ren line:
+
+> Andersen is through The Last Pour and into the finish corridor.
+
+Emotional beat: the final test is not bravery. It is not spilling the victory at the lip of the stein.
+
+## Beat 32: Finish
 
 Location: race finish corridor, Flight Control feeds, public viewing areas, Starship Garage, protected family viewing space.
 
-Flight Control confirms Sven's first-place finish. Public celebration erupts. Garage staff react with relief as much as joy. Freya and Ingrid break down in different ways. Nora understands that her father won, even if she does not yet understand what was saved. Heinz is delighted, but the moment stays Sven's and the family's.
+Sven crosses the finish first. Flight Control confirms the legal finish. Public celebration erupts. Garage staff react with relief as much as joy. Freya and Ingrid break down in different ways. Nora understands that her father won, even if she does not yet understand what was saved. Heinz is delighted, but the moment stays Sven's and the family's.
 
 The story does not resolve every administrative consequence immediately. The race gives emotional release. The final chapter comes weeks later.
 
 Emotional beat: the family gets to breathe.
 
-## Beat 28: Prize processing and debt resolution
+## Beat 33: Prize processing and debt resolution
 
 Timing: weeks later.
 
@@ -248,7 +328,7 @@ The first-place prize has been processed. The Andersen debt is paid off and docu
 
 Emotional beat: the family does not just win. They become legally free.
 
-## Beat 29: IFP transfer and Northstar investigation
+## Beat 34: IFP transfer and Northstar investigation
 
 Timing: weeks later, or summarized during the final chapter.
 
@@ -258,7 +338,7 @@ Northstar Collateral Services comes under investigation for lien abuse, predator
 
 Emotional beat: justice begins; it does not pretend to be finished.
 
-## Beat 30: Public story by consent
+## Beat 35: Public story by consent
 
 Timing: weeks later, after the family sets boundaries.
 
@@ -270,7 +350,7 @@ Ingrid gives the brief Lars quote, with family approval:
 
 Emotional beat: the family owns its story.
 
-## Beat 31: Job offer finalized
+## Beat 36: Job offer finalized
 
 Timing: weeks later.
 
@@ -280,7 +360,7 @@ Sven does not accept as if alone. He brings the offer to Freya and Ingrid.
 
 Emotional beat: the job is not rescue by pity. It is recognition.
 
-## Beat 32: Full relocation
+## Beat 37: Full relocation
 
 Timing: weeks later.
 
@@ -288,7 +368,7 @@ Sven, Freya, Nora, and Ingrid relocate fully to Der Himmelskrug. Sven begins the
 
 Emotional beat: the family's future is not only employment. It is safety, time, and choice.
 
-## Beat 33: Last Good Haul's next life
+## Beat 38: Last Good Haul's next life
 
 Timing: weeks later.
 
@@ -298,7 +378,7 @@ Tamsin and Keo rename the ship **Second Breakfast**. The Andersens refuse to pas
 
 Emotional beat: they let go without becoming what hurt them.
 
-## Beat 34: Opportunity Knocks receives her berth
+## Beat 39: Opportunity Knocks receives her berth
 
 Timing: weeks later.
 
@@ -306,7 +386,7 @@ Timing: weeks later.
 
 Emotional beat: the ship is no longer collateral. She is home.
 
-## Beat 35: Sven's first official shift
+## Beat 40: Sven's first official shift
 
 Timing: weeks later, final braided sequence.
 
@@ -314,7 +394,7 @@ Sven reports for his first official Starship Garage shift. He is not treated as 
 
 Emotional beat: the future is earned one shift at a time.
 
-## Beat 36: Final braided image
+## Beat 41: Final braided image
 
 Timing: final pages or final scene sequence.
 
