@@ -83,7 +83,7 @@ Likely packs from `ai-workflows/CONTEXT_PACKS.md`:
 - The Twins' Teeth maneuver: not a straight slot. The legal line is an angled, offset gap that requires precise yaw and roll so the ship presents its narrowest safe profile at speed.
 - Added course feature: **The Gauntlet**, a sanctioned high-precision corridor after the Twins' Teeth that tests repeated rapid handling corrections under load.
 - Finish-line kink: **The Last Pour**.
-- Chicanes connect the major challenges, including a Kaltmond exit chicane, a chicane between the Twins' Teeth and The Gauntlet, and the final approach into The Last Pour.
+- Chicanes connect the major challenges, including opening chicanes, a Kaltmond exit chicane, a chicane between the Twins' Teeth and The Gauntlet, and the final approach into The Last Pour.
 - First prize: **25 million credits**.
 - Second prize: **20 million credits**.
 - Third prize: **15 million credits**.
