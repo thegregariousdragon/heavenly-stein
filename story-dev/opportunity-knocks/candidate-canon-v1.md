@@ -60,13 +60,21 @@ Risk: Do not create exact stat blocks. Do not make the ship station property. Do
 
 ### Candidate canon: Himmelskrug Run course details
 
-Detail: The racecourse is **The Knotward Run**. Course components include **Kaltmond** and **The Twins' Teeth**.
+Detail: The racecourse is **The Knotward Run**. Course components include **Kaltmond**, **The Twins' Teeth**, **The Gauntlet**, and **The Last Pour**.
+
+Current working course interpretation:
+
+- **Kaltmond** includes a high-speed gravity-assisted slingshot through a legal Flight Control corridor.
+- **The Twins' Teeth** are an angled, offset asteroid gate that requires precise yaw and roll rather than straight-line flight through a slot.
+- **The Gauntlet** is a sanctioned high-precision corridor after the Twins' Teeth.
+- **The Last Pour** is the named final kink heading toward the finish line.
+- Chicanes connect the major features, including a Kaltmond exit chicane and a chicane between the Twins' Teeth and The Gauntlet.
 
 Suggested owner file: `canon/07-colonies-and-locations.md`, `canon/08-der-himmelskrug-station.md`, or `canon/12-story-chronology.md`, depending on how durable the geography becomes.
 
 Reason: Racecourse details are likely reusable in future Himmelskrug Run references.
 
-Risk: Do not promote racecourse geography until Flight Control, local-space geography, and route-safety implications are checked.
+Risk: Do not promote racecourse geography until Flight Control, local-space geography, and route-safety implications are checked. These are sanctioned race features, not uncontrolled hazards or illegal stunts.
 
 ## Likely story-only candidates
 
