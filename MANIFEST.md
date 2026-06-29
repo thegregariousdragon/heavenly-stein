@@ -49,11 +49,11 @@ Active canon preserves worldbuilding, station layout, mechanics, law/economy/cor
 - `planning/continuity-checklist.md`
 - `planning/current-arc-board.md`
 - `planning/story-queue.md`
+- `planning/opportunity-knocks.md`
 
 ## Removed from this package
 
 - Old story prose.
-- Old story-specific planning files.
 - Old active chronology.
 
 ## Source-of-truth note
