@@ -49,7 +49,12 @@ Active canon preserves worldbuilding, station layout, mechanics, law/economy/cor
 - `planning/continuity-checklist.md`
 - `planning/current-arc-board.md`
 - `planning/story-queue.md`
-- `planning/opportunity-knocks.md`
+
+## Included story-development files
+
+- `story-dev/opportunity-knocks/intake-v1.md`
+- `story-dev/opportunity-knocks/beat-sheet-v1.md`
+- `story-dev/opportunity-knocks/candidate-canon-v1.md`
 
 ## Removed from this package
 
