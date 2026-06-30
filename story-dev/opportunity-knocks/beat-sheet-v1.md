@@ -134,7 +134,7 @@ Emotional beat: Sven's family knowledge becomes evidence.
 
 Location: Starship Garage / engineering diagnostic station.
 
-Oskar escalates the issue to Rolf. Rolf confirms that the resonance / feedback lag could become dangerous during Kaltmond's gravity-assisted slingshot, the Twins' Teeth yaw/roll passage, or the repeated corrections of The Gauntlet. The repair plan changes. Sven collaborates with the team.
+Oskar escalates the issue to Rolf. Rolf confirms that the resonance / feedback lag could become dangerous during Kaltmond's gravity-assisted slingshot, the Twins' Teeth pitch/yaw/roll passage, or the repeated corrections of The Gauntlet. The repair plan changes. Sven collaborates with the team.
 
 Emotional beat: Sven earns respect before he earns applause.
 
@@ -250,13 +250,13 @@ Emotional beat: speed only matters if he can keep using it.
 
 Location: asteroid gate on the Knotward Run.
 
-Sven aims for the Twins' Teeth. The two asteroids do not form a straight slot. The legal line is an angled, offset gap that requires a precise yaw and roll so *Opportunity Knocks* presents her narrowest safe profile while carrying speed.
+Sven aims for the Twins' Teeth. The two asteroids do not form a straight slot. The legal line is an angled, offset gap that requires coordinated pitch, yaw, and roll so *Opportunity Knocks* presents her narrowest safe profile while carrying speed.
 
 Most pilots avoid the gate or slow enough to lose time. Sven trusts the repaired response and threads the gap as a shape problem, not a straight-line dare.
 
 Possible Ren line:
 
-> That is not a straight gap. Viewers, watch the roll. He has to turn the ship through the line, not merely fly between the rocks.
+> That is not a straight gap. Viewers, watch the attitude change. He has to pitch, yaw, and roll the ship through the line, not merely fly between the rocks.
 
 Possible Maude line:
 
@@ -278,7 +278,7 @@ Location: sanctioned high-precision corridor on the Knotward Run.
 
 The Gauntlet is a dense, Flight-Control-monitored corridor of rapid gates, tight turns, sensor-shadow pockets, and course pylons. It is legal, famous, and hated because it punishes sloppy handling after pilots are already tired and overcommitted.
 
-Sven has to make repeated yaw, roll, and thrust corrections under load. The repaired frame resonance does not return. *Opportunity Knocks* answers fast enough to make the impossible look practiced.
+Sven has to make repeated pitch, yaw, roll, and thrust corrections under load. The repaired frame resonance does not return. *Opportunity Knocks* answers fast enough to make the impossible look practiced.
 
 Possible Ren line:
 
@@ -331,6 +331,8 @@ Emotional beat: the family does not just win. They become legally free.
 ## Beat 34: IFP transfer and Northstar investigation
 
 Timing: weeks later, or summarized during the final chapter.
+
+Location: private administrative setting, family lodging, or station legal / financial office.
 
 Callum Dresk and Ilya Voren are transferred to IFP custody. Evidence includes false identities, tracker use, intimidation, disputed lien abuse, station access misconduct, and witness statements from Calder Yim and Pia Stern.
 
