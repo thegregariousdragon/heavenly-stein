@@ -65,7 +65,7 @@ Detail: The racecourse is **The Knotward Run**. Course components include **Kalt
 Current working course interpretation:
 
 - **Kaltmond** includes a high-speed gravity-assisted slingshot through a legal Flight Control corridor.
-- **The Twins' Teeth** are an angled, offset asteroid gate that requires precise yaw and roll rather than straight-line flight through a slot.
+- **The Twins' Teeth** are an angled, offset asteroid gate that requires coordinated pitch, yaw, and roll rather than straight-line flight through a slot.
 - **The Gauntlet** is a sanctioned high-precision corridor after the Twins' Teeth.
 - **The Last Pour** is the named final kink heading toward the finish line.
 - Chicanes connect the major features, including a Kaltmond exit chicane and a chicane between the Twins' Teeth and The Gauntlet.

@@ -80,7 +80,7 @@ Likely packs from `ai-workflows/CONTEXT_PACKS.md`:
 - Barren moon: **Kaltmond**.
 - Kaltmond maneuver: high-speed gravity-assisted slingshot through a legal Flight Control corridor. Too shallow loses the boost; too wide leaves the course and risks disqualification; too deep risks impact with Kaltmond.
 - Asteroid gate: **The Twins' Teeth**.
-- The Twins' Teeth maneuver: not a straight slot. The legal line is an angled, offset gap that requires precise yaw and roll so the ship presents its narrowest safe profile at speed.
+- The Twins' Teeth maneuver: not a straight slot. The legal line is an angled, offset gap that requires coordinated pitch, yaw, and roll so the ship presents its narrowest safe profile at speed.
 - Added course feature: **The Gauntlet**, a sanctioned high-precision corridor after the Twins' Teeth that tests repeated rapid handling corrections under load.
 - Finish-line kink: **The Last Pour**.
 - Chicanes connect the major challenges, including opening chicanes, a Kaltmond exit chicane, a chicane between the Twins' Teeth and The Gauntlet, and the final approach into The Last Pour.

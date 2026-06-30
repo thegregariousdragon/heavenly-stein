@@ -88,7 +88,7 @@ Ending turn: Oskar escalates to Rolf.
 
 Primary focus: Oskar, Rolf, Sven, garage staff.
 
-Rolf confirms the issue could become dangerous during the high-speed Kaltmond slingshot, the Twins' Teeth yaw/roll passage, or The Gauntlet's repeated corrections. The repair plan changes.
+Rolf confirms the issue could become dangerous during the high-speed Kaltmond slingshot, the Twins' Teeth pitch/yaw/roll passage, or The Gauntlet's repeated corrections. The repair plan changes.
 
 Garage staff keep their awe under control. The ship is a legend, but legends still need torque checks.
 
@@ -156,7 +156,7 @@ Ending turn: Sven carries more speed than expected into the Kaltmond exit chican
 
 Primary focus: Sven, racecourse escalation, commentary.
 
-Sven clears the Kaltmond exit chicane and aims for the Twins' Teeth. The gap is angled and offset, not straight. He has to yaw and roll precisely so *Opportunity Knocks* presents her narrowest safe profile while carrying speed.
+Sven clears the Kaltmond exit chicane and aims for the Twins' Teeth. The gap is angled and offset, not straight. He has to coordinate pitch, yaw, and roll precisely so *Opportunity Knocks* presents her narrowest safe profile while carrying speed.
 
 He clears the Teeth, then must immediately recover through the Teeth-to-Gauntlet chicane. The Gauntlet follows: a sanctioned high-precision corridor of rapid gates, tight turns, sensor-shadow pockets, and repeated corrections.
 

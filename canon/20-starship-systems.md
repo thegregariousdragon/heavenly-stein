@@ -61,6 +61,12 @@ Sublight drive is for meaningful normal-space movement. Fine-control systems are
 
 Close operations should use the appropriate controlled movement mode. A ship that can cross a system quickly should still move slowly and predictably near people, stations, docks, cargo locks, and debris.
 
+### Attitude-control axes
+
+When describing starship attitude or precision handling, remember the three basic rotational control axes: **pitch**, **yaw**, and **roll**. A maneuver may emphasize one axis, but tight gates, asteroid-threading, docking, evasive attitude changes, and high-performance race lines often require coordinated control across all three.
+
+Do not reduce a three-dimensional starship handling problem to yaw/roll only unless the scene deliberately establishes why pitch is irrelevant or locked out.
+
 ## Navigation, route data, and clearance
 
 Navigation is safety infrastructure.
