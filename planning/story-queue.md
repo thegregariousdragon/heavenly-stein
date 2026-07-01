@@ -31,7 +31,9 @@ Previous story drafts and previous plots are not retained in this package. New s
 - Chapter 7 draft v3: `story-dev/opportunity-knocks/chapter-07-draft-v3.md`.
 - Chapter 8 scene plan: `story-dev/opportunity-knocks/chapter-08-scene-plan-v1.md`.
 - Chapter 8 draft v2: `story-dev/opportunity-knocks/chapter-08-draft-v2.md`.
+- Chapter 9 scene plan: `story-dev/opportunity-knocks/chapter-09-scene-plan-v1.md`.
+- Chapter 9 draft v2: `story-dev/opportunity-knocks/chapter-09-draft-v2.md`.
 - Candidate canon tracker: `story-dev/opportunity-knocks/candidate-canon-v1.md`.
 - Summary: Sven Andersen arrives at Der Himmelskrug with his family, the legendary racing ship *Opportunity Knocks*, and a disputed lien crisis. The Himmelskrug Run becomes a lawful path out, while Mirador agents attempt coercive seizure under Northstar pressure.
 - Canon status: not active chronology. Likely soft-canon candidates and likely story-only candidates are tiered in the candidate-canon tracker.
-- Next step: Chapter 9 scene plan.
+- Next step: Chapter 10 scene plan.
