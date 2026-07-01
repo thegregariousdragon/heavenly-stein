@@ -86,6 +86,8 @@ Active canon preserves worldbuilding, station layout, mechanics, law/economy/cor
 - `story-dev/opportunity-knocks/chapter-13-draft-v1.md`
 - `story-dev/opportunity-knocks/chapter-14-scene-plan-v1.md`
 - `story-dev/opportunity-knocks/chapter-14-draft-v1.md`
+- `story-dev/opportunity-knocks/chapter-15-scene-plan-v1.md`
+- `story-dev/opportunity-knocks/chapter-15-draft-v1.md`
 - `story-dev/opportunity-knocks/candidate-canon-v1.md`
 
 ## Removed from this package
