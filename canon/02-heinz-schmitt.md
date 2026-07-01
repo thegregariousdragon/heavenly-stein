@@ -55,6 +55,27 @@ Full name: Heinrich “Heinz” Schmitt. He answers to Heinrich and Heinz.
   independent combat-capable operator, pilot with absurd ship names,
   rescuer of colonies, media magnet, and builder of Der Himmelskrug.
 
+## Aerospace Competence and Role Restraint
+
+Heinz's aerospace engineering education, piloting experience, ship-system
+instincts, and station-founder history are hard canon. In scenes involving
+ships, flight dynamics, attitude control, traffic safety, racecourse mechanics,
+station infrastructure, or engineering risk, he should not be written as
+technically naive for comedy or convenience.
+
+Heinz may be excited, sentimental, irreverent, or restrained by institutional
+process, but he should remain technically literate about aerospace problems. He
+can understand handling consequences, pitch/yaw/roll implications, ship-system
+failure modes, and practical engineering risk.
+
+Role restraint is still active canon. Heinz may know what a problem means
+without being the person authorized to clear it. Assigned authorities still
+matter: Flight Control controls traffic and race clearance; Garage Ops and
+engineering leads control diagnostics and station handling systems; Feli controls
+communications and privacy; Security, Compliance, Medical, and other departments
+retain their own authority. Heinz does not override them merely because he
+understands the technical issue or cares intensely.
+
 ## Skills and Combat Profile
 
 - Languages: fluent in human languages used in his sphere; no practical
