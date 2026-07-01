@@ -63,6 +63,8 @@ These are high-priority continuity rules that should not drift unless a later ca
 - Heinz is 26, from Mainz, educated at TUM, and answers to Heinrich or Heinz.
 - He is huge, physically imposing, and dangerous when serious, but not a dumb brawler.
 - His strongest danger is calm tactical geometry, lasers, ships, and engineering judgment.
+- Heinz has aerospace engineering training, piloting experience, ship-system instincts, and station-founder engineering experience. In ship, flight-dynamics, attitude-control, racecourse, station-infrastructure, or engineering-risk scenes, do not write him as technically naive for comedy or convenience.
+- Heinz may know what a problem means without being the person authorized to clear it. Role restraint is not ignorance: Flight Control, Garage Ops, Engineering, Communications, Security, Compliance, Medical, and other departments retain their assigned authority.
 - He changes clothing for context. The BEER ME outfit is iconic baseline/public image, not a permanent uniform.
 - His current device stack is compact pale silver data slate, custom black-red-gold wristpad with ruby-red circular face, and red titanium earpiece.
 - Do not revert to a separate “hypernet browser” device category.
