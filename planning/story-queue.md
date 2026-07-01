@@ -24,6 +24,7 @@ Previous story drafts and previous plots are not retained in this package. New s
 - Chapter 4 draft: `story-dev/opportunity-knocks/chapter-04-draft-v1.md`.
 - Chapter 5 scene plan: `story-dev/opportunity-knocks/chapter-05-scene-plan-v1.md`.
 - Chapter 5 draft: `story-dev/opportunity-knocks/chapter-05-draft-v1.md`.
+- Chapter 5 tightening pass: `story-dev/opportunity-knocks/chapter-05-tightening-pass-v1.md`.
 - Chapter 6 scene plan: `story-dev/opportunity-knocks/chapter-06-scene-plan-v1.md`.
 - Chapter 6 draft v2: `story-dev/opportunity-knocks/chapter-06-draft-v2.md`.
 - Chapter 7 scene plan: `story-dev/opportunity-knocks/chapter-07-scene-plan-v1.md`.
